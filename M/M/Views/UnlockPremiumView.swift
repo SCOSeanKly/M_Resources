@@ -18,7 +18,7 @@ struct UnlockPremiumView: View {
     let premiumUnlockedImages = ["premiumUnlocked", "premiumUnlocked2", "premiumUnlocked3"]
     @Binding var showPremiumContent: Bool
     @Binding var buyClicked: Bool
-    
+  
   
     var body: some View {
        
@@ -27,9 +27,8 @@ struct UnlockPremiumView: View {
                 Spacer()
                 
                 HStack {
-                    Image(systemName: "crown.fill")
-                        .font(.title3)
-                        .foregroundStyle(.yellow.gradient)
+                    
+                  CrownView()
                     
                     Text("Unlock Premium Content")
                         .font(.system(size: obj.appearance.settingsSliderFontSize).weight(.bold))
@@ -40,6 +39,7 @@ struct UnlockPremiumView: View {
                 .padding(.top, 15)
                 .padding(.bottom, 5)
                 .opacity(showPremiumContent ? 0 : 1)
+               
                 
                 HStack {
                     
@@ -240,3 +240,5 @@ struct UnlockPremiumSheet: View {
         .frame(width: UIScreen.main.bounds.width * 0.9, height: 180)
     }
 }
+
+

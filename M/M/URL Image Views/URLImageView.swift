@@ -181,6 +181,7 @@ struct SheetContentView: View {
     let saveTip = SaveWallpaperTip()
     @SceneStorage("isZooming") var isZooming: Bool = false
     @Binding var showPremiumContent: Bool
+   
     
     
     var body: some View {
@@ -248,15 +249,14 @@ struct SheetContentView: View {
                             //MARK:  Check if the filename contains "p_" for premium
                             if getFileName(from: image.image).contains("p_") && !showPremiumContent {
                                 HStack {
-                                    Image(systemName: "crown.fill")
-                                        .font(.title3)
-                                        .foregroundStyle(.yellow.gradient)
+                                  CrownView()
                                     
                                     Text("Premium Required. Unlock In Settings")
                                         .font(.system(size: obj.appearance.settingsSliderFontSize).weight(.bold))
                                 }
                                 .padding()
                                 .offset(y: -30)
+                               
                                 
                             } else {
                                 Button {

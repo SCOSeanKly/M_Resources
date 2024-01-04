@@ -74,13 +74,14 @@ struct ButtonView: View {
             
             if showPremiumContent {
                 
-                Image(systemName: "crown.fill")
-                    .font(.title3)
-                    .foregroundStyle(.yellow.gradient)
-                
-                Text("Premium")
-                    .font(.subheadline)
-                    .foregroundStyle(.yellow)
+                VStack {
+                 CrownView()
+                       
+                    Text("Unlocked")
+                }
+                .font(.system(size: 16, weight: .regular))
+                .foregroundStyle(.yellow.gradient)
+               
             }
             
         }
@@ -128,3 +129,5 @@ struct ButtonView: View {
         }
     }
 }
+
+

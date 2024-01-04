@@ -60,6 +60,7 @@
 		3E81CA4B2B271AE400D01A39 /* Shine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E81CA4A2B271AE400D01A39 /* Shine.swift */; };
 		3E8B333B2B45BB77007536DB /* WidgySwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B333A2B45BB77007536DB /* WidgySwitchView.swift */; };
 		3E8B333D2B46AA07007536DB /* RegularPolygon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B333C2B46AA07007536DB /* RegularPolygon.swift */; };
+		3E8B33422B4707D5007536DB /* CrownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B33412B4707D5007536DB /* CrownView.swift */; };
 		3E9EE88A2B03C9BF001E6E50 /* SwiftUIKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3E9EE8892B03C9BF001E6E50 /* SwiftUIKit */; };
 		3EA47FD82B3F324B00405093 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA47FD72B3F324B00405093 /* BlurView.swift */; };
 		3EA6C7BB2B29BAA700C7CC89 /* toggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA6C7BA2B29BAA700C7CC89 /* toggle.swift */; };
@@ -126,6 +127,7 @@
 		3E81CA4A2B271AE400D01A39 /* Shine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shine.swift; sourceTree = "<group>"; };
 		3E8B333A2B45BB77007536DB /* WidgySwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgySwitchView.swift; sourceTree = "<group>"; };
 		3E8B333C2B46AA07007536DB /* RegularPolygon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegularPolygon.swift; sourceTree = "<group>"; };
+		3E8B33412B4707D5007536DB /* CrownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrownView.swift; sourceTree = "<group>"; };
 		3E8ED9522AFB92A0004F87EF /* SwiftUI-Shimmer */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "SwiftUI-Shimmer"; path = "../../../../../Library/Developer/Xcode/DerivedData/screenshotSL-hlbihqdhqjcigifxwrohccejlkan/SourcePackages/checkouts/SwiftUI-Shimmer"; sourceTree = "<group>"; };
 		3E8ED9532AFB92AC004F87EF /* SwiftUI-Shimmer */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "SwiftUI-Shimmer"; path = "../../../../../Library/Developer/Xcode/DerivedData/screenshotSL-hlbihqdhqjcigifxwrohccejlkan/SourcePackages/checkouts/SwiftUI-Shimmer"; sourceTree = "<group>"; };
 		3EA47FD72B3F324B00405093 /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
@@ -249,6 +251,7 @@
 				3EC0D5B12B18992000365B38 /* ApplicationSettings.swift */,
 				3EC0D5B32B18B9B700365B38 /* DonationView.swift */,
 				3E19274F2B1DF1DC0029B011 /* UnlockPremiumView.swift */,
+				3E8B33412B4707D5007536DB /* CrownView.swift */,
 				3EAFEB3D2B23644900D57F5C /* Heart.swift */,
 			);
 			path = Views;
@@ -371,6 +374,7 @@
 			files = (
 				3E1569002B3EF87E00FCD4A6 /* CustomSpinner.swift in Sources */,
 				3E69AF912AF558C6007244C1 /* ContentViewModel.swift in Sources */,
+				3E8B33422B4707D5007536DB /* CrownView.swift in Sources */,
 				3E69AFC12AF55B08007244C1 /* CustomPresentation.swift in Sources */,
 				3E3DFA422B21F77A00A4097E /* OffsetReader.swift in Sources */,
 				3E69AFBF2AF55AF1007244C1 /* SnapShot.swift in Sources */,
@@ -556,7 +560,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = M/M.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 0.0.1;
+				CURRENT_PROJECT_VERSION = 0.0.2;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"M/Preview Content\"";
 				DEVELOPMENT_TEAM = V53QHKZTNF;
@@ -601,7 +605,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = M/M.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 0.0.1;
+				CURRENT_PROJECT_VERSION = 0.0.2;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"M/Preview Content\"";
 				DEVELOPMENT_TEAM = V53QHKZTNF;
