@@ -21,7 +21,7 @@ struct CustomImageView: View {
         
         ZStack {
             BackgroundView(obj: obj, importedBackground: $importedBackground, item: item)
-            
+               
             MockupLayersView(obj: obj, importedImage1: $importedImage1, importedImage2: $importedImage2, item: item)
             
             LogoView(obj: obj, importedLogo: $importedLogo)
@@ -66,6 +66,12 @@ struct BackgroundView: View {
                     .offset(y: obj.appearance.backgroundOffsetY)
                     .hueRotation(Angle(degrees: obj.appearance.hue))
                     .saturation(obj.appearance.saturation)
+//                    .overlay{
+//                        HexagonGrid(rows: 34, columns: 10)
+//                            .offset(x: -17.5, y: 350)
+//                            .scaleEffect(2.75)
+//                             
+//                    }
             }
             
             //Blur overlay - disabled until blur value is > 0.01

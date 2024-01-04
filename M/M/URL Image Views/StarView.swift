@@ -16,9 +16,9 @@ struct StarView: View {
                 
                 Spacer()
                 
-                Image(systemName: "star.square")
-                    .font(.title3)
-                    .foregroundStyle(.yellow)
+                Image(systemName: "crown.fill")
+                    .font(.system(size: 16, weight: .regular))
+                    .foregroundStyle(.yellow.gradient)
                 
             }
             .padding(10)

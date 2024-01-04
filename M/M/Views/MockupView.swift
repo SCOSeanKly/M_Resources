@@ -30,7 +30,7 @@ struct MockupView: View {
     
     var body: some View {
         ZStack {
-            
+          
             // MARK: Wallpaper View
             CustomPagingSlider(data: $viewModel.items) { $item in
                 

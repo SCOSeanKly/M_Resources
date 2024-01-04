@@ -58,6 +58,8 @@
 		3E72A08C2B17A01B00797359 /* MockupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E72A08B2B17A01B00797359 /* MockupView.swift */; };
 		3E7EC1F42B18CF05006CA403 /* IAP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7EC1F32B18CF05006CA403 /* IAP.swift */; };
 		3E81CA4B2B271AE400D01A39 /* Shine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E81CA4A2B271AE400D01A39 /* Shine.swift */; };
+		3E8B333B2B45BB77007536DB /* WidgySwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B333A2B45BB77007536DB /* WidgySwitchView.swift */; };
+		3E8B333D2B46AA07007536DB /* RegularPolygon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8B333C2B46AA07007536DB /* RegularPolygon.swift */; };
 		3E9EE88A2B03C9BF001E6E50 /* SwiftUIKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3E9EE8892B03C9BF001E6E50 /* SwiftUIKit */; };
 		3EA47FD82B3F324B00405093 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA47FD72B3F324B00405093 /* BlurView.swift */; };
 		3EA6C7BB2B29BAA700C7CC89 /* toggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA6C7BA2B29BAA700C7CC89 /* toggle.swift */; };
@@ -122,6 +124,8 @@
 		3E72A08B2B17A01B00797359 /* MockupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockupView.swift; sourceTree = "<group>"; };
 		3E7EC1F32B18CF05006CA403 /* IAP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IAP.swift; sourceTree = "<group>"; };
 		3E81CA4A2B271AE400D01A39 /* Shine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shine.swift; sourceTree = "<group>"; };
+		3E8B333A2B45BB77007536DB /* WidgySwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgySwitchView.swift; sourceTree = "<group>"; };
+		3E8B333C2B46AA07007536DB /* RegularPolygon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegularPolygon.swift; sourceTree = "<group>"; };
 		3E8ED9522AFB92A0004F87EF /* SwiftUI-Shimmer */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "SwiftUI-Shimmer"; path = "../../../../../Library/Developer/Xcode/DerivedData/screenshotSL-hlbihqdhqjcigifxwrohccejlkan/SourcePackages/checkouts/SwiftUI-Shimmer"; sourceTree = "<group>"; };
 		3E8ED9532AFB92AC004F87EF /* SwiftUI-Shimmer */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "SwiftUI-Shimmer"; path = "../../../../../Library/Developer/Xcode/DerivedData/screenshotSL-hlbihqdhqjcigifxwrohccejlkan/SourcePackages/checkouts/SwiftUI-Shimmer"; sourceTree = "<group>"; };
 		3EA47FD72B3F324B00405093 /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
@@ -172,7 +176,9 @@
 		3E69AF6E2AF55875007244C1 = {
 			isa = PBXGroup;
 			children = (
+				3E8B333C2B46AA07007536DB /* RegularPolygon.swift */,
 				3E1568FF2B3EF87E00FCD4A6 /* CustomSpinner.swift */,
+				3E8B333A2B45BB77007536DB /* WidgySwitchView.swift */,
 				3EA47FD72B3F324B00405093 /* BlurView.swift */,
 				3EA6C7BA2B29BAA700C7CC89 /* toggle.swift */,
 				3E69AF792AF55875007244C1 /* M */,
@@ -387,6 +393,7 @@
 				3E5FF5932B078C0D0007AF8D /* URLImageView.swift in Sources */,
 				3E69AFB12AF55A67007244C1 /* ZoomModifier.swift in Sources */,
 				3E69AFB32AF55A7B007244C1 /* CustomUniversalAlertApp.swift in Sources */,
+				3E8B333B2B45BB77007536DB /* WidgySwitchView.swift in Sources */,
 				3E69AF7D2AF55875007244C1 /* ContentView.swift in Sources */,
 				3E69AF9E2AF55963007244C1 /* AnimatedButton.swift in Sources */,
 				3EAFEB3E2B23644900D57F5C /* Heart.swift in Sources */,
@@ -395,6 +402,7 @@
 				3E69AFAB2AF55A30007244C1 /* TransparentBlurView.swift in Sources */,
 				3E23E90E2B0F997700DE4460 /* ZoomGesture.swift in Sources */,
 				3E69AFAF2AF55A5A007244C1 /* IfExtension.swift in Sources */,
+				3E8B333D2B46AA07007536DB /* RegularPolygon.swift in Sources */,
 				3E28819B2AFD046B0071E460 /* CustomToggle3Way.swift in Sources */,
 				3E01F7A32AF642B300DC7A4A /* ShareImageButton.swift in Sources */,
 				3E23E90C2B0F6C1000DE4460 /* FormatWalpaperCount.swift in Sources */,

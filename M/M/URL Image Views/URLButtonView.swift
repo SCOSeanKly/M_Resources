@@ -40,7 +40,7 @@ struct ButtonView: View {
                     }
                 }
 
-                DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
                     obj.appearance.showWallpapersView.toggle()
                 }
                 
@@ -74,9 +74,9 @@ struct ButtonView: View {
             
             if showPremiumContent {
                 
-                Image(systemName: "star.square")
+                Image(systemName: "crown.fill")
                     .font(.title3)
-                    .foregroundStyle(.yellow)
+                    .foregroundStyle(.yellow.gradient)
                 
                 Text("Premium")
                     .font(.subheadline)
@@ -87,14 +87,14 @@ struct ButtonView: View {
         .sensoryFeedback(.selection, trigger: isTapped)
         .padding()
         .onAppear{
-            DispatchQueue.main.asyncAfter(deadline: .now() + 1.2) {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
                 withAnimation(.bouncy) {
                     showCount = true
                 }
             }
         }
         .onDisappear{
-            DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.8) {
                 withAnimation(.bouncy) {
                     showCount = false
                 }
@@ -111,8 +111,8 @@ struct ButtonView: View {
 
                 Spacer()
                 
-                CustomToggle(showTitleText: false, titleText: "", bindingValue: $viewModelData.showWidgys, onSymbol: "arrow.left", offSymbol: "arrow.right", rotate: false, onColor: .green, offColor: .blue, obj: obj)
-                
+                CustomToggle(showTitleText: false, titleText: "", bindingValue: $viewModelData.showWidgys, onSymbol: "diamond", offSymbol: "square", rotate: true, onColor: .mint, offColor: .teal, obj: obj)
+               
             }
             .padding(.horizontal)
             

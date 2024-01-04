@@ -144,23 +144,23 @@ struct CustomSquareToggle: View {
             ZStack {
                 
                 RoundedRectangle(cornerRadius: 5)
-                    .frame(width: 40, height: 24)
+                    .frame(width: 80, height: 24)
                     .foregroundColor(Color(bindingValue.wrappedValue ? onColor : offColor))
                     .animation(.easeInOut, value: bindingValue.wrappedValue)
                 
                 LinearGradient(gradient: Gradient(colors: [Color.gray.opacity(0.1), Color.white.opacity(0.1), Color.white.opacity(0.1)]), startPoint: .top, endPoint: .bottom)
-                    .frame(width: 40, height: 24)
+                    .frame(width: 80, height: 24)
                     .cornerRadius(100)
                 
                 ZStack {
                     
                     RoundedRectangle(cornerRadius: 3)
-                        .frame(width: 18, height: 18)
+                        .frame(width: 36, height: 18)
                         .foregroundColor(.white)
                         .shadow(color: .black.opacity(0.15), radius: 1, x: 2, y: 2)
                     
                     RoundedRectangle(cornerRadius: 3)
-                        .frame(width: 15, height: 15)
+                        .frame(width: 32, height: 15)
                         .foregroundColor(.clear)
                         .background(LinearGradient(gradient: Gradient(colors: [.gray.opacity(0.1), .white.opacity(0.1), .white]), startPoint: .top, endPoint: .bottom))
                         .clipShape(RoundedRectangle(cornerRadius: 5))
@@ -189,20 +189,18 @@ struct CustomSquareToggle: View {
                     Circle()
                         .foregroundColor(.black.opacity(isPressing ? 0.05 : 0))
                 }
-                .offset(x: bindingValue.wrappedValue ? 9 : -9)
+                .offset(x: bindingValue.wrappedValue ? 19 : -19)
                 .scaleEffect(isPressing ? 0.8 : 1.0)
                 .animation(.interpolatingSpring(stiffness: 300, damping: 20), value: isPressing)
             }
             .onTapGesture {
-                
+                bindingValue.wrappedValue.toggle()
                 isTapped.toggle()
                 isPressing.toggle()
                 
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
                     isPressing.toggle()
                 }
-                
-                bindingValue.wrappedValue.toggle()
                 
                 if rotate {
                     withAnimation(.easeInOut(duration: 0.2)) {

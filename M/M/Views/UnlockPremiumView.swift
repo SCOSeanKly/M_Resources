@@ -27,9 +27,9 @@ struct UnlockPremiumView: View {
                 Spacer()
                 
                 HStack {
-                    Image(systemName: "star.square")
+                    Image(systemName: "crown.fill")
                         .font(.title3)
-                        .foregroundStyle(.yellow)
+                        .foregroundStyle(.yellow.gradient)
                     
                     Text("Unlock Premium Content")
                         .font(.system(size: obj.appearance.settingsSliderFontSize).weight(.bold))
@@ -43,7 +43,7 @@ struct UnlockPremiumView: View {
                 
                 HStack {
                     
-                    Text("Unlock our premium selection of wallpapers not available anywhere else by making a one time purchase.")
+                    Text("Unlock our premium selection of wallpapers and widgets not available anywhere else by making a one time purchase.")
                         .font(.system(size: obj.appearance.settingsSliderFontSize))
                         .foregroundStyle(.gray)
                         .fixedSize(horizontal: false, vertical: true)
@@ -181,7 +181,7 @@ struct UnlockPremiumSheet: View {
             
             VStack {
                 HStack {
-                    Image(systemName: "star.square")
+                    Image(systemName: "crown.fill")
                         .font(.title3)
                     
                     Text("Unlock Premium")
@@ -201,7 +201,7 @@ struct UnlockPremiumSheet: View {
                 
                 HStack (spacing: 50) {
                   
-                    IAPButton(iapText: "Unlock Premium", subText: "Unlock all premium wallpapers and features", iapID: IAP.purchaseID_UnlockPremium, color: .yellow, systemImage: "star.square", cornerradius: 4)
+                    IAPButton(iapText: "Unlock Premium", subText: "Unlock all premium wallpapers and features", iapID: IAP.purchaseID_UnlockPremium, color: .yellow, systemImage: "crown.fill", cornerradius: 4)
                    
                 }
                 

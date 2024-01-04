@@ -27,16 +27,8 @@ struct URLImages: View {
     var totalFilesCount: Int {
         return viewModelData.images.count
     }
-    
-    @State private var showCount: Bool = false
-    @State private var scrollID: Int?
-    @State private var scrollPosition: CGFloat = 0.0
+   
     @State private var isTapped: Bool = false
-    @State var scrollerHeight: CGFloat = 0
-    @State var indicatorOffset: CGFloat = 0
-    @State var startOffset: CGFloat = 0
-    @State var hideIndicatorLabel: Bool = true
-    @State var timeOut: CGFloat = 0.3
     
     var colorScheme: ColorScheme? {
         switch obj.appearance.selectedAppearance {
@@ -59,13 +51,10 @@ struct URLImages: View {
                ButtonView(obj: obj, viewModelData: viewModelData, showPremiumContent: $showPremiumContent)
                 
                 if !viewModelData.images.isEmpty {
-                    
                         ScrollViewReader(content: { proxy in
                             ScrollView(.vertical, showsIndicators: true) {
                                 LazyVGrid(columns: Array(repeating: GridItem(), count: obj.appearance.showTwoWallpapers ? 2 : 3), spacing: 30) {
-                                    
                                     ForEach(viewModelData.images.indices.reversed(), id: \.self) { index in
-                                        
                                         VStack {
                                             Button {
                                                 isTapped.toggle()
@@ -91,10 +80,9 @@ struct URLImages: View {
                                             
                                             let fileName = getFileName(from: viewModelData.images[index].image)
                                             
-                                            // Check if the fileName starts with "p_"
+                                            // Check if the fileName starts with "p_" or "w_" and replace with nil
                                             let updatedFileName = fileName.replacingOccurrences(of: "p_", with: "").replacingOccurrences(of: "w_", with: "")
 
-                                            
                                             Text(updatedFileName)
                                                 .font(.system(size: 10))
                                                 .foregroundColor(.primary.opacity(0.5))
@@ -116,6 +104,7 @@ struct URLImages: View {
                         })
                       
                 } else {
+                    // Show loading images view when no images have been loaded yet
                     LoadingImagesView()
                 }
                 
@@ -202,14 +191,14 @@ struct SheetContentView: View {
                     LargeImageView(image: image, viewModelContent: viewModelContent, importedOverlay: $viewModelContent.importedOverlay, showPremiumContent: $showPremiumContent)
                     
                     Group {
-                        
                         HStack(alignment: .center){
                             if imageSize != "ERROR - FILE DOES NOT EXIST" {
                                 
+                                // Shows premium star symbol when image contains "p_"
                                 if getFileName(from: image.image).contains("p_") {
-                                    Image(systemName: "star.square")
+                                    Image(systemName: "crown.fill")
                                         .padding(.top, 6)
-                                        .foregroundStyle(.yellow)
+                                        .foregroundStyle(.yellow.gradient)
                                 }
                                 
                                 Text(getFileName(from: image.image)
@@ -217,7 +206,6 @@ struct SheetContentView: View {
                                     .replacingOccurrences(of: "w_", with: ""))
                                 .padding(.top, 6)
                                 .foregroundStyle(getFileName(from: image.image).contains("p_") ? .yellow : .primary)
-                                
                                 
                                 Text(" • ")
                                     .padding(.top, 6)
@@ -228,9 +216,7 @@ struct SheetContentView: View {
                                      "Download QR Code" : imageSize)
                                 .padding(.top, 6)
                             } else {
-                                
                                 VStack {
-                                    
                                     Image(systemName: "exclamationmark.triangle.fill")
                                         .foregroundColor(.yellow)
                                         .font(.title2)
@@ -238,7 +224,6 @@ struct SheetContentView: View {
                                         .foregroundStyle(.red)
                                         .padding(.top, 6)
                                 }
-                                
                             }
                             
                             if imageSize != "Fetching file size..." {
@@ -263,13 +248,12 @@ struct SheetContentView: View {
                             //MARK:  Check if the filename contains "p_" for premium
                             if getFileName(from: image.image).contains("p_") && !showPremiumContent {
                                 HStack {
-                                    Image(systemName: "star.square")
+                                    Image(systemName: "crown.fill")
                                         .font(.title3)
-                                        .foregroundStyle(.yellow)
+                                        .foregroundStyle(.yellow.gradient)
                                     
                                     Text("Premium Required. Unlock In Settings")
                                         .font(.system(size: obj.appearance.settingsSliderFontSize).weight(.bold))
-                                    
                                 }
                                 .padding()
                                 .offset(y: -30)
@@ -498,7 +482,6 @@ struct LargeImageView: View {
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(width: frameSize.width, height: frameSize.height)
-                
                 // Dont load full res image if image is Widgy
                 if !image.image.contains("w_") {
                   // Show Full Res Image if Premium is unlocked with IAP
