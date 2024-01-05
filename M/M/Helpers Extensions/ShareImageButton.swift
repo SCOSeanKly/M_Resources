@@ -101,11 +101,11 @@ struct ShareImageButton: View {
             .padding()
             .alert(alertConfig: $saveImage_showSheet) {
                 Text(saveToPhotos ? "\(Image(systemName: "info.circle")) Saving to Photos Album" : "\(Image(systemName: "info.circle")) Changed to Share Sheet")
-                    .foregroundStyle(.white)
+                    .foregroundStyle(item.alertTextColor)
                     .padding(15)
                     .background {
                         RoundedRectangle(cornerRadius: 15)
-                            .fill(item.color)
+                            .fill(item.color.gradient)
                     }
                     .onAppear(perform: {
                         DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) {
@@ -117,48 +117,32 @@ struct ShareImageButton: View {
                     }
             }
             .alert(alertConfig: $alert) {
-                Text(saveToPhotos ? "\(Image(systemName: "checkmark.circle")) Saved Successfully!" : "\(Image(systemName: "checkmark.circle")) Shared Successfully!")
-                    .foregroundStyle(.white)
-                    .padding(15)
-                    .background {
-                        RoundedRectangle(cornerRadius: 15)
-                            .fill(item.color)
-                    }
-                    .onAppear(perform: {
-                        DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) {
-                            alert.dismiss()
-                            
-                        }
-                    })
-                    .onTapGesture {
-                        alert.dismiss()
-                    }
+                alertPreferences(title: saveToPhotos ? "Saved Successfully!" : "Shared Successfully!",
+                                            imageName: "checkmark.circle")
             }
             .alert(alertConfig: $alertError) {
-                VStack(spacing: -5) {
-                    Text(saveToPhotos ? "\(Image(systemName: "exclamationmark.triangle")) Error Saving!" : "\(Image(systemName: "exclamationmark.triangle")) Error Sharing!")
-                        .foregroundStyle(.white)
-                        .padding(15)
-                        .multilineTextAlignment(.center)
-                    
-                    Text("Please check app permissions or user cancelled")
-                        .font(.footnote)
-                        .foregroundStyle(.white)
-                        .padding(15)
-                        .multilineTextAlignment(.center)
-                }
-                .background {
-                    RoundedRectangle(cornerRadius: 15)
-                        .fill(item.color)
-                }
-                .onAppear(perform: {
-                    alert.dismiss()
-                })
-                .onTapGesture {
-                    alert.dismiss()
-                }
+                alertPreferences(title: saveToPhotos ? "Error Saving!" : "Error Sharing!",
+                                            imageName: "exclamationmark.triangle")
             }
     }
+    
+    func alertPreferences(title: String, imageName: String) -> some View {
+           Text("\(Image(systemName: imageName)) \(title)")
+               .foregroundStyle(item.alertTextColor)
+               .padding(15)
+               .background {
+                   RoundedRectangle(cornerRadius: 15)
+                       .fill(item.color.gradient)
+               }
+               .onAppear(perform: {
+                   DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) {
+                       alert.dismiss()
+                   }
+               })
+               .onTapGesture {
+                   alert.dismiss()
+               }
+       }
     
     func requestReviewPrompt() {
         requestReviewCount += 1
@@ -169,5 +153,4 @@ struct ShareImageButton: View {
             }
         }
     }
-    
 }

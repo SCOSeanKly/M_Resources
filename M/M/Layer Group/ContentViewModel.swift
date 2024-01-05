@@ -18,6 +18,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15PM_Front_screen",
               shadowName: "",
               color: .red,
+              alertTextColor: .white,
               title: "Single Front View",
               subTitle: "Forward-facing upright perspective of the iPhone 15 Pro Max in natural titanium",
               
@@ -70,6 +71,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15_3DLeft_screen",
               shadowName: "",
               color: .white,
+              alertTextColor: .black,
               title: "Front & Back CryptoMatte",
               subTitle: "iPhone 15 in Crypto Matte",
               
@@ -122,6 +124,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15_3DLeft_screen",
               shadowName: "",
               color: .gray,
+              alertTextColor: .white,
               title: "Front & Back 3D Left",
               subTitle: "iPhone 15 front and back 3D view",
               
@@ -173,6 +176,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "Dual_iP15PM_Front_screen",
               shadowName: "",
               color: .black,
+              alertTextColor: .white,
               title: "Dual Front View",
               subTitle: "Dual forward-facing upright perspective of the iPhone 15 Pro Max in natural titanium",
               
@@ -224,6 +228,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15PM_3DLeft_Upright_screen",
               shadowName: "",
               color: .teal,
+              alertTextColor: .white,
               title: "3D Lateral View",
               subTitle: "Three-dimensional side view of the iPhone 15 Pro Max in natural titanium",
               
@@ -275,6 +280,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "Dual_iP15PM_3DLeft_screen",
               shadowName: "",
               color: .indigo,
+              alertTextColor: .white,
               title: "Dual 3D Lateral View",
               subTitle: "Dual three-dimensional side view of the iPhone 15 Pro Max in natural titanium",
               
@@ -326,6 +332,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15PM_Front_screen",
               shadowName: "",
               color: .blue,
+              alertTextColor: .white,
               title: "Front View + M",
               subTitle: "Forward-facing perspective of the iPhone 15 Pro Max in natural titanium with M case",
               
@@ -377,6 +384,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15PM_3DLeft_screen",
               shadowName: "",
               color: .yellow,
+              alertTextColor: .white,
               title: "3D Left View",
               subTitle: "Horizontal 3D view of the iPhone 15 Pro Max in natural titanium",
               
@@ -428,6 +436,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15PM_3DUpright_screen",
               shadowName: "",
               color: .green,
+              alertTextColor: .white,
               title: "3D Upright View",
               subTitle: "Three-dimensional standing view of the iPhone 15 Pro Max in natural titanium",
               
@@ -479,6 +488,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iP15PM_Front_screen",
               shadowName: "",
               color: .mint,
+              alertTextColor: .white,
               title: "X Front View",
               subTitle: "Forward-facing perspective of the iPhone X in space grey",
               
@@ -530,6 +540,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "Dual_iP15PM_Front_screen",
               shadowName: "",
               color: .cyan,
+              alertTextColor: .white,
               title: "Dual iPhone X",
               subTitle: "Forward-facing perspective of the X in space grey",
               
@@ -581,6 +592,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "appleWatchUltraScreen",
               shadowName: "",
               color: .brown,
+              alertTextColor: .white,
               title: "Watch Ultra",
               subTitle: "Forward-facing perspective of the Apple Watch Ultra with a ocean band",
               
@@ -632,6 +644,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "appleWatchUltraScreen",
               shadowName: "",
               color: .gray,
+              alertTextColor: .white,
               title: "Watch Ultra v2",
               subTitle: "Forward-facing perspective of the Apple Watch Ultra with a alpine loop",
               
@@ -683,6 +696,7 @@ class ContentViewModel: ObservableObject {
               screenReflectionName: "iPadScreen",
               shadowName: "",
               color: .purple,
+              alertTextColor: .white,
               title: "iPad Pro Front View",
               subTitle: "Forward-facing perspective of the iPad Pro in Silver",
               

@@ -14,6 +14,7 @@ struct Item: Identifiable {
     var screenReflectionName: String
     var shadowName: String
     var color: Color
+    var alertTextColor: Color
     var title: String
     var subTitle: String
     

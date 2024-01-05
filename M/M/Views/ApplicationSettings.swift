@@ -225,7 +225,7 @@ struct SelectIconView: View {
     @StateObject var obj: Object
     @State private var isTapped: Bool = false
     @AppStorage ("AppIconSelection") var selectedIcon: String = "IconBlueM"
-    let buttonSize: CGFloat = 38
+    let buttonSize: CGFloat = 36
     
     var body: some View {
         VStack {
@@ -239,45 +239,44 @@ struct SelectIconView: View {
                 
                 Spacer()
                 
-                HStack {
-                    
-                    Spacer()
-                    ForEach(["IconBlueM", "IconBlueM_White", "IconWhiteM"], id: \.self) { iconName in
-                        Button {
-                            changeAppIcon(to: iconName)
-                            selectedIcon = iconName
-                            
-                        } label: {
-                            
-                            ZStack {
+                ScrollView (.horizontal, showsIndicators: false) {
+                    HStack {
+                        ForEach(["IconBlueM", "IconBlueM_White", "IconWhiteM", "IconPinkM", "IconMultiM"], id: \.self) { iconName in
+                            Button {
+                                changeAppIcon(to: iconName)
+                                selectedIcon = iconName
                                 
-                                RoundedRectangle(cornerRadius: 10)
-                                    .foregroundColor(.clear)
-                                    .background(.ultraThinMaterial)
-                                    .clipShape(RoundedRectangle(cornerRadius: 10))
+                            } label: {
                                 
-                                Image("\(iconName)_preview")
-                                
-                                    .resizable()
-                                    .cornerRadius(10)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 10)
-                                            .stroke(selectedIcon == iconName ? Color(.link).opacity(1.0) : Color.clear, lineWidth: 1.0)
-                                    )
+                                ZStack {
+                                    
+                                    RoundedRectangle(cornerRadius: 10)
+                                        .foregroundColor(.clear)
+                                        .background(.ultraThinMaterial)
+                                        .clipShape(RoundedRectangle(cornerRadius: 10))
+                                    
+                                    Image("\(iconName)_preview")
+                                    
+                                        .resizable()
+                                        .cornerRadius(10)
+                                        .overlay(
+                                            RoundedRectangle(cornerRadius: 10)
+                                                .stroke(selectedIcon == iconName ? Color(.link).opacity(1.0) : Color.clear, lineWidth: 1.0)
+                                        )
+                                }
+                                .frame(width: buttonSize, height: buttonSize)
+                                .scaleEffect(selectedIcon == iconName ? 1.0 : 0.85)
                             }
-                            .frame(width: buttonSize, height: buttonSize)
-                            .scaleEffect(selectedIcon == iconName ? 1.0 : 0.85)
                         }
                     }
                 }
-                .frame(width: UIScreen.main.bounds.width * 0.50)
+                .frame(width: UIScreen.main.bounds.width * 0.5)
                 .offset(y: 10)
-             
                 .sensoryFeedback(.selection, trigger: isTapped)
             }
             
             HStack {
-                Text("Select the application icon style")
+                Text("Select an application icon")
                     .font(.system(size: obj.appearance.settingsSliderFontSize))
                     .foregroundStyle(.gray)
                     .offset(y: -5)
@@ -297,6 +296,10 @@ struct InfoView: View {
     var body: some View {
         VStack {
             HStack {
+                
+                Image(systemName: "info.circle")
+                    .font(.title3)
+                
                 Text("Information")
                     .font(.system(size: obj.appearance.settingsSliderFontSize))
                     .padding(.bottom, 5)
