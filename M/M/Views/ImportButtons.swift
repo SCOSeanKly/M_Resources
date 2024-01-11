@@ -155,8 +155,15 @@ private struct Pill: View {
 private struct TextViewOne: View {
     @Binding var saveCount: Int
     var body: some View {
+        
+        
+        RollingText(value: $saveCount)
+        /*
         Text("\(saveCount)")
             .font(.system(.body, design: .rounded).weight(.medium))
+         */
+        
+        
     }
 }
 

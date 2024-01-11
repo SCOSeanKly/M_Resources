@@ -27,7 +27,7 @@ struct URLImages: View {
     var totalFilesCount: Int {
         return viewModelData.images.count
     }
-   
+    
     @State private var isTapped: Bool = false
     
     var colorScheme: ColorScheme? {
@@ -42,67 +42,72 @@ struct URLImages: View {
     }
     
     @Binding var showPremiumContent: Bool
+    @State private var alert: AlertConfig = .init(disableOutsideTap: false, slideEdge: .top)
     
     
     var body: some View {
         ZStack {
+            
+           
+             
+            
             VStack {
                 
-               ButtonView(obj: obj, viewModelData: viewModelData, showPremiumContent: $showPremiumContent)
+                ButtonView(obj: obj, viewModelData: viewModelData, showPremiumContent: $showPremiumContent)
                 
                 if !viewModelData.images.isEmpty {
-                        ScrollViewReader(content: { proxy in
-                            ScrollView(.vertical, showsIndicators: true) {
-                                LazyVGrid(columns: Array(repeating: GridItem(), count: obj.appearance.showTwoWallpapers ? 2 : 3), spacing: 30) {
-                                    ForEach(viewModelData.images.indices.reversed(), id: \.self) { index in
-                                        VStack {
-                                            Button {
-                                                isTapped.toggle()
-                                                selectedImage = viewModelData.images[index]
-                                                isSheetPresented = true
-                                                saveState = .idle
-                                            } label: {
-                                                WebImage(url: URL(string: viewModelData.images[index].image))
-                                                    .resizable()
-                                                    .customFrameBasedOnCondition(obj: obj)
-                                                    .overlay {
-                                                        //MARK: Add a star if wallpaper is premium
-                                                        if viewModelData.images[index].image.contains("p_") {
-                                                            StarView()
-                                                        }
-                                                        
-                                                        if viewModelData.images[index].isNew {
-                                                            NewWallAddedView()
-                                                                .customFrameBasedOnCondition(obj: obj)
-                                                        }
+                    ScrollViewReader(content: { proxy in
+                        ScrollView(.vertical, showsIndicators: true) {
+                            LazyVGrid(columns: Array(repeating: GridItem(), count: obj.appearance.showTwoWallpapers ? 2 : 3), spacing: 30) {
+                                ForEach(viewModelData.images.indices.reversed(), id: \.self) { index in
+                                    VStack {
+                                        Button {
+                                            isTapped.toggle()
+                                            selectedImage = viewModelData.images[index]
+                                            isSheetPresented = true
+                                            saveState = .idle
+                                        } label: {
+                                            WebImage(url: URL(string: viewModelData.images[index].image))
+                                                .resizable()
+                                                .customFrameBasedOnCondition(obj: obj)
+                                                .overlay {
+                                                    //MARK: Add a star if wallpaper is premium
+                                                    if viewModelData.images[index].image.contains("p_") {
+                                                        StarView()
                                                     }
-                                            }
-                                            
-                                            let fileName = getFileName(from: viewModelData.images[index].image)
-                                            
-                                            // Check if the fileName starts with "p_" or "w_" and replace with nil
-                                            let updatedFileName = fileName.replacingOccurrences(of: "p_", with: "").replacingOccurrences(of: "w_", with: "")
-
-                                            Text(updatedFileName)
-                                                .font(.system(size: 10))
-                                                .foregroundColor(.primary.opacity(0.5))
-                                                .lineLimit(1)
-                                                .multilineTextAlignment(.center)
+                                                    
+                                                    if viewModelData.images[index].isNew {
+                                                        NewWallAddedView()
+                                                            .customFrameBasedOnCondition(obj: obj)
+                                                    }
+                                                }
                                         }
+                                        
+                                        let fileName = getFileName(from: viewModelData.images[index].image)
+                                        
+                                        // Check if the fileName starts with "p_" or "w_" and replace with nil
+                                        let updatedFileName = fileName.replacingOccurrences(of: "p_", with: "").replacingOccurrences(of: "w_", with: "")
+                                        
+                                        Text(updatedFileName)
+                                            .font(.system(size: 10))
+                                            .foregroundColor(.primary.opacity(0.5))
+                                            .lineLimit(1)
+                                            .multilineTextAlignment(.center)
                                     }
                                 }
-                                .padding(10)
-                                .scrollTargetLayout()
-                              
-                                Spacer()
-                                    .frame(height: 100)
                             }
-                            .refreshable {
-                                // Handle pull-to-refresh here
-                                viewModelData.forceRefresh.toggle()
-                            }
-                        })
-                      
+                            .padding(10)
+                            .scrollTargetLayout()
+                            
+                            Spacer()
+                                .frame(height: 100)
+                        }
+                        .refreshable {
+                            // Handle pull-to-refresh here
+                            viewModelData.forceRefresh.toggle()
+                        }
+                    })
+                    
                 } else {
                     // Show loading images view when no images have been loaded yet
                     LoadingImagesView()
@@ -116,6 +121,20 @@ struct URLImages: View {
         }
         .preferredColorScheme(colorScheme)
         .edgesIgnoringSafeArea(.bottom)
+        .alert(alertConfig: $alert) {
+            
+            Text("\(viewModelData.newImagesCount) New Images Added!")
+                .foregroundStyle(.white)
+                .padding(15)
+                .background{
+                    RoundedRectangle(cornerRadius: 15)
+                        .fill(.red.gradient)
+                }
+                .onTapGesture {
+                    alert.dismiss()
+                }
+               
+        }
         .sheet(item: $selectedImage) { image in
             ZStack {
                 SheetContentView(viewModel: viewModelData, image: image, viewModelContent: viewModelContent, saveState: $saveState, obj: obj, showPremiumContent: $showPremiumContent)
@@ -148,6 +167,10 @@ struct URLImages: View {
         }
         .onAppear {
             viewModelData.loadImages()
+          
+            if viewModelData.newImagesCount > 0 { // Show Alert when new images have been added
+                alert.present()
+            }
         }
         .onReceive(viewModelData.$forceRefresh) { refresh in
             if refresh {
@@ -181,7 +204,7 @@ struct SheetContentView: View {
     let saveTip = SaveWallpaperTip()
     @SceneStorage("isZooming") var isZooming: Bool = false
     @Binding var showPremiumContent: Bool
-   
+    
     
     
     var body: some View {
@@ -249,14 +272,14 @@ struct SheetContentView: View {
                             //MARK:  Check if the filename contains "p_" for premium
                             if getFileName(from: image.image).contains("p_") && !showPremiumContent {
                                 HStack {
-                                  CrownView()
+                                    CrownView()
                                     
                                     Text("Premium Required. Unlock In Settings")
                                         .font(.system(size: obj.appearance.settingsSliderFontSize).weight(.bold))
                                 }
                                 .padding()
                                 .offset(y: -30)
-                               
+                                
                                 
                             } else {
                                 Button {
@@ -484,7 +507,7 @@ struct LargeImageView: View {
                     .frame(width: frameSize.width, height: frameSize.height)
                 // Dont load full res image if image is Widgy
                 if !image.image.contains("w_") {
-                  // Show Full Res Image if Premium is unlocked with IAP
+                    // Show Full Res Image if Premium is unlocked with IAP
                     if showPremiumContent {
                         WebImage(url: fullResImageURL) // Use the full-res image URL
                             .resizable()

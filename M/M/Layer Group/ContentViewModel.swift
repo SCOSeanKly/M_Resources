@@ -586,7 +586,8 @@ class ContentViewModel: ObservableObject {
               rotationEffect_b: 0,
               width_b: 173,
               height_b: 373,
-              cornerRadius_b: 40),
+              cornerRadius_b: 40)
+        /*
         //MARK: Mockup 6 - Apple Watch Ultra
         .init(imageName: "appleWatchUltra",
               screenReflectionName: "appleWatchUltraScreen",
@@ -743,6 +744,7 @@ class ContentViewModel: ObservableObject {
               width_b: 173,
               height_b: 373,
               cornerRadius_b: 40)
+         */
     ]
     
     @Published var importedBackground: UIImage? = nil

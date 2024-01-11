@@ -414,6 +414,7 @@ struct MockupSettingsView: View {
                 
             }
             
+            /*
             // Aspect Ratio
             if !obj.appearance.easySettingsMode {
                 HStack (spacing: -5) {
@@ -429,6 +430,7 @@ struct MockupSettingsView: View {
                 .padding(.bottom, 10)
                 
             }
+             */
             
             HStack (spacing: -5) {
                 

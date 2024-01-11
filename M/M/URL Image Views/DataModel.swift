@@ -19,6 +19,7 @@ class DataViewModel: ObservableObject {
     
     @Published var showWidgys: Bool = false
     @AppStorage("seenImages") var seenImages: [String] = []
+    @Published var newImagesCount: Int = 0
     
     func loadImages() {
         
@@ -51,6 +52,13 @@ class DataViewModel: ObservableObject {
             do {
                 let imageNames = try JSONDecoder().decode([String].self, from: data)
                 DispatchQueue.main.async {
+                    
+                    let newImages = imageNames.filter { imageName in
+                        !self.seenImages.contains(imageName)
+                    }
+                    
+                    self.newImagesCount = newImages.count
+                    
                     self.images = imageNames.indices.map { index in
                         let imageName = imageNames[index]
                         let imageUrlString = baseUrlString + imageName
