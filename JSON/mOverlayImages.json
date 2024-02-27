@@ -5,12 +5,12 @@
         "subtitle": "Subtitle 1"
     },
     {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/p_SKE521.jpg",
         "title": "Title 2",
         "subtitle": "Subtitle 2"
     },
     {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/p_SKE521.jpg",
         "title": "Title 3",
         "subtitle": "Subtitle 3"
     }
