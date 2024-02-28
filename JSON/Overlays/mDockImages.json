@@ -1,7 +1,47 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/Dock_Small_Chisel.png",
-        "title": "Dock",
-        "subtitle": "Small Chisel"
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock1.png",
+        "title": "Dock 1",
+        "subtitle": "Shadow Light"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock2.png",
+        "title": "Dock 2",
+        "subtitle": "Shadow Dark"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock3.png",
+        "title": "Dock 3",
+        "subtitle": "Chisel Down"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock4.png",
+        "title": "Dock 4",
+        "subtitle": "Gradient"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock5.png",
+        "title": "Dock 5",
+        "subtitle": "Emboss Down"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock6.png",
+        "title": "Dock 6",
+        "subtitle": "Emboss Up Shadow"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock7.png",
+        "title": "Dock 7",
+        "subtitle": "Rainbow"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock8.png",
+        "title": "Dock 8",
+        "subtitle": "Square Shadow"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock9.png",
+        "title": "Dock 9",
+        "subtitle": "Transparent"
     }
 ]
