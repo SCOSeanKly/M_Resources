@@ -1,26 +1,26 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock_Small_Chisel.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/Dock_Small_Chisel.png",
         "title": "Dock",
         "subtitle": "Small Chisel"
     },
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Fine_Grained.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/Fine_Grained.png",
         "title": "Overlay",
         "subtitle": "Fine Grain"
     },
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/ggg965_Overlay.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Complete/ggg965_Overlay.png",
         "title": "Overlay",
         "subtitle": "Notch & Dock"
     },
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/gggOverlay.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Complete/gggOverlay.png",
         "title": "Overlay",
         "subtitle": "Notch & Dock"
     },
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/iAirPlay_Overlay.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Complete/iAirPlay_Overlay.png",
         "title": "Overlay",
         "subtitle": "AirPlay"
     }
