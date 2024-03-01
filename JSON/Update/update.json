@@ -1,20 +1,7 @@
-{
-  "date": "02-03-2024",
-  "items": [
-    {
-      "title": "Sample Title 1",
-      "date": "Updated 01/03/2024",
-      "content": "Sample content for item 1."
-    },
-    {
-      "title": "Sample Title 2",
-      "date": "Updated 01/03/2024",
-      "content": "Sample content for item 2."
-    },
-    {
-      "title": "Sample Title 3",
-      "date": "Updated 01/03/2024",
-      "content": "Sample content for item 3."
-    }
-  ]
-}
+[
+  {
+    "date": "2024-03-01",
+    "title": "Update - 01 Mar 2024",
+    "content": "Added new update sheet that shows what changes and updates have been made including what new content might have been added"
+  }
+]
