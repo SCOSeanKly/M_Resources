@@ -3,14 +3,17 @@
   "items": [
     {
       "title": "Sample Title 1",
+      "date": "Updated 01/03/2024",
       "content": "Sample content for item 1."
     },
     {
       "title": "Sample Title 2",
+      "date": "Updated 01/02/2024",
       "content": "Sample content for item 2."
     },
     {
       "title": "Sample Title 3",
+      "date": "Updated 01/01/2024",
       "content": "Sample content for item 3."
     }
   ]
