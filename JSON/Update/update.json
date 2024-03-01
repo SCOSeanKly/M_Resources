@@ -1,0 +1,17 @@
+{
+  "date": "2024-03-01",
+  "items": [
+    {
+      "title": "Sample Title 1",
+      "content": "Sample content for item 1."
+    },
+    {
+      "title": "Sample Title 2",
+      "content": "Sample content for item 2."
+    },
+    {
+      "title": "Sample Title 3",
+      "content": "Sample content for item 3."
+    }
+  ]
+}
