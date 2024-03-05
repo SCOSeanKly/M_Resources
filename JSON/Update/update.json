@@ -1,7 +1,10 @@
 [
     
-    
-    
+    {
+    "date": "2024-03-05",
+    "title": "Update - 05 Mar 2024",
+    "content": "Added all supported images from SWA app for the 15 and 14 iPhone Pro Max. Also added JSON files for the 13 and 12 Pro Max which look to be incompatible. Iages scaled for those devices will need to be added seperately."
+  },
     {
     "date": "2024-03-02",
     "title": "Update - 02 Mar 2024",
