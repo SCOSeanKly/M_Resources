@@ -83,6 +83,10 @@
     }, {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay21.png",
         "title": "Overlay 21",
-        "subtitle": "Scanned Effect"
+        "subtitle": "Scanned Effect Light"
+    }, {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay22.png",
+        "title": "Overlay 22",
+        "subtitle": "Scanned Effect Dark"
     }
 ]
