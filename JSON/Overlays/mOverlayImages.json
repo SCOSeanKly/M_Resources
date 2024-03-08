@@ -72,11 +72,7 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay18.png",
         "title": "Overlay 18",
         "subtitle": "Leaf Shadow"
-    }, {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay19.png",
-        "title": "Overlay 19",
-        "subtitle": "Window Shadow"
-    }, {
+    },  {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay20.png",
         "title": "Overlay 20",
         "subtitle": "Water Drops"
