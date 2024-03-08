@@ -1,6 +1,11 @@
 [
     {
     "date": "2024-03-07",
+    "title": "Update - 08 Mar 2024",
+    "content": "Testing feature that stops the app fetching news every view change. limit to one hour"
+  },
+    {
+    "date": "2024-03-07",
     "title": "Update - 07 Mar 2024",
     "content": "Major redesign of the UI in the update version 2.0.16 build 0.0.6. New tab bar for faster access to all views with same effect as X where the tab bar will reduce opcity while scrolling."
   }
