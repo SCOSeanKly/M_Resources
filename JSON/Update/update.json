@@ -1,6 +1,11 @@
 [
     {
-    "date": "2024-03-07",
+    "date": "2024-03-08",
+    "title": "Update - 08 Mar 2024",
+    "content": "Second test of News feature for version 2.0.16 build 0.0.6"
+  },
+    {
+    "date": "2024-03-08",
     "title": "Update - 08 Mar 2024",
     "content": "Testing feature that stops the app fetching news every view change. limit to one hour"
   },
