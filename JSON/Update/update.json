@@ -1,17 +1,7 @@
 [
     {
-    "date": "2024-03-08",
-    "title": "Update - 08 Mar 2024",
-    "content": "Second test of News feature for version 2.0.16 build 0.0.6"
-  },
-    {
-    "date": "2024-03-08",
-    "title": "Update - 08 Mar 2024",
-    "content": "Testing feature that stops the app fetching news every view change. limit to one hour"
-  },
-    {
-    "date": "2024-03-07",
-    "title": "Update - 07 Mar 2024",
-    "content": "Major redesign of the UI in the update version 2.0.16 build 0.0.6. New tab bar for faster access to all views with same effect as X where the tab bar will reduce opcity while scrolling."
+    "date": "2024-03-10",
+    "title": "Update - 10 Mar 2024",
+    "content": "Hello and welcome to the new version M! I hope you are enjoying the new UI and find it much easier to navigate your way around. I would really appreciate if you could spare a minute to review the app on the AppStore and leave a 5 star review. It really helps the app. Thanks! "
   }
 ]
