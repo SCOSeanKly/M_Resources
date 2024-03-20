@@ -10,35 +10,35 @@
         "name": "SeanKly",
         "subPath": "M_Resources/main/Wallpapers/",
         "jsonFile": "M_Resources/main/JSON/wallpaperImages.json",
-        "imageURL": "https://pbs.twimg.com/profile_images/1770507364426268672/pZH6T4sL_400x400.jpg",
+        "imageURL": "https://unavatar.io/twitter/SeanKly",
         "socialURL": "https://twitter.com/SeanKly"
     },
     {
         "name": "ElijahCreative",
         "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
         "jsonFile": "ElijahCreative_M_Resources/main/JSON/elijahCreative.json",
-        "imageURL": "https://pbs.twimg.com/profile_images/1723028617112752128/25EDRfFF_400x400.jpg",
+        "imageURL": "https://unavatar.io/twitter/ElijahCreative",
         "socialURL": "https://twitter.com/ElijahCreative"
     },
     {
         "name": "TeboulDavid1",
         "subPath": "SmartWallpaperArt_M_Resources/main/Wallpapers/",
         "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/SmartWallpaperArt.json",
-        "imageURL": "https://pbs.twimg.com/profile_images/1622980440914026497/6rAAvxWV_400x400.png",
+        "imageURL": "https://unavatar.io/twitter/TeboulDavid1",
         "socialURL": "https://twitter.com/TeboulDavid1"
     },
     {
         "name": "timetravelr2025",
         "subPath": "TimeTraveler_M_Resources/main/Wallpapers/",
         "jsonFile": "TimeTraveler_M_Resources/main/JSON/timetravelr2025.json",
-        "imageURL": "https://pbs.twimg.com/profile_images/1766274773900816384/ofB5PEnj_400x400.jpg",
+        "imageURL": "https://unavatar.io/twitter/timetravelr2025",
         "socialURL": "https://twitter.com/timetravelr2025"
     },
     {
         "name": "AIFinity76",
         "subPath": "AIFinity76_M_Resources/main/Wallpapers/",
         "jsonFile": "AIFinity76_M_Resources/main/JSON/AIFinity76.json",
-        "imageURL": "https://pbs.twimg.com/profile_images/1645574004000923651/I99Wxlsq_400x400.jpg",
+        "imageURL": "https://unavatar.io/twitter/AIFinity76",
         "socialURL": "https://twitter.com/AIFinity76"
     }
 ]
