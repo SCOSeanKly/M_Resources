@@ -3,16 +3,52 @@
         "name": "widgy",
         "subPath": "M_Resources/main/Widgys/",
         "jsonFile": "M_Resources/main/JSON/widgyImages.json",
-        "imageURL": "https://example.com/image1.png",
+        "imageURL": "https://styles.redditmedia.com/t5_3334im/styles/communityIcon_aee8qyofc3m61.png",
         "socialURL": "https://www.reddit.com/r/widgy/"
     },
     {
         "name": "SeanKly",
         "subPath": "M_Resources/main/Wallpapers/",
         "jsonFile": "M_Resources/main/JSON/wallpaperImages.json",
-        "imageURL": "https://example.com/image2.png",
+        "imageURL": "https://pbs.twimg.com/profile_images/1755851388037287936/9gxdZP3s_400x400.jpg",
         "socialURL": "https://twitter.com/SeanKly"
+    },
+    {
+        "name": "ElijahCreative",
+        "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
+        "jsonFile": "ElijahCreative_M_Resources/main/JSON/elijahCreative.json",
+        "imageURL": "https://pbs.twimg.com/profile_images/1723028617112752128/25EDRfFF_400x400.jpg",
+        "socialURL": "https://twitter.com/ElijahCreative"
+    },
+    {
+        "name": "TeboulDavid1",
+        "subPath": "SmartWallpaperArt_M_Resources/main/Wallpapers/",
+        "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/SmartWallpaperArt.json",
+        "imageURL": "https://pbs.twimg.com/profile_images/1622980440914026497/6rAAvxWV_400x400.png",
+        "socialURL": "https://twitter.com/TeboulDavid1"
+    },
+    {
+        "name": "timetravelr2025",
+        "subPath": "TimeTraveler_M_Resources/main/Wallpapers/",
+        "jsonFile": "TimeTraveler_M_Resources/main/JSON/timetravelr2025.json",
+        "imageURL": "https://pbs.twimg.com/profile_images/1766274773900816384/ofB5PEnj_400x400.jpg",
+        "socialURL": "https://twitter.com/timetravelr2025"
+    },
+    {
+        "name": "patricialeveq",
+        "subPath": "patricialeveq_M_Resources/main/Wallpapers/",
+        "jsonFile": "patricialeveq_M_Resources/main/JSON/patricialeveq.json",
+        "imageURL": "https://pbs.twimg.com/profile_images/1753301097882763264/4rGQW-tG_400x400.jpg",
+        "socialURL": "https://twitter.com/patricialeveq"
+    },
+    {
+        "name": "AIFinity76",
+        "subPath": "patricialeveq_M_Resources/main/Wallpapers/",
+        "jsonFile": "patricialeveq_M_Resources/main/JSON/patricialeveq.json",
+        "imageURL": "https://pbs.twimg.com/profile_images/1645574004000923651/I99Wxlsq_400x400.jpg",
+        "socialURL": "https://twitter.com/AIFinity76"
     }
 ]
+
 
 
