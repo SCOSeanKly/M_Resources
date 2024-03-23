@@ -40,6 +40,13 @@
         "jsonFile": "AIFinity76_M_Resources/main/JSON/AIFinity76.json",
         "imageURL": "https://unavatar.io/twitter/AIFinity76",
         "socialURL": "https://twitter.com/AIFinity76"
+    },
+    {
+        "name": "patricialeveq",
+        "subPath": "patricialeveq_M_Resources/main/Wallpapers/",
+        "jsonFile": "patricialeveq_M_Resources/main/JSON/patricialeveq.json",
+        "imageURL": "https://pbs.twimg.com/profile_images/1753301097882763264/4rGQW-tG_400x400.jpg",
+        "socialURL": "https://twitter.com/patricialeveq"
     }
 ]
 
