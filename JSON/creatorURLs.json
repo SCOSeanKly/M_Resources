@@ -6,7 +6,13 @@
         "imageURL": "https://styles.redditmedia.com/t5_3334im/styles/communityIcon_aee8qyofc3m61.png",
         "socialURL": "https://www.reddit.com/r/widgy/"
     },
-   
+    {
+        "name": "SeanKly",
+        "subPath": "M_Resources/main/Wallpapers/",
+        "jsonFile": "M_Resources/main/JSON/wallpaperImages.json",
+        "imageURL": "https://unavatar.io/twitter/SeanKly",
+        "socialURL": "https://twitter.com/SeanKly"
+    },
     {
         "name": "ElijahCreative",
         "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
