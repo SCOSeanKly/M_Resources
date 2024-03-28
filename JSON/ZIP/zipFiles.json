@@ -1,21 +1,21 @@
 [
   {
     "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
-    "title": "Title_of_image_1",
-    "subtitle": "Subtitle_of_image_1",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/TEST.zip"
+    "title": "Archive",
+    "subtitle": "21mb",
+    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/archive.zip"
   },
   {
     "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
-    "title": "Title_of_image_2",
-    "subtitle": "Subtitle_of_image_2",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/TEST.zip"
+    "title": "Test",
+    "subtitle": "7kb",
+    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/test.zip"
   },
   {
     "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
-    "title": "Title_of_image_3",
-    "subtitle": "Subtitle_of_image_3",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/TEST.zip"
+    "title": "Wallpapers",
+    "subtitle": "27.4mb",
+    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/wallpapers.zip"
   }
 ]
 
