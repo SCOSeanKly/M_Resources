@@ -1,8 +1,62 @@
 [
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
-        "title": "Archive",
-        "subtitle": "21mb",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/archive.zip"
+        "title": "1NF3RRED",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/1NF3RRED.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "DentGls",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/DentGls.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "GlaSK.zip",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/GlaSK.zip.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "GlosSK",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/GlosSK.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "HardLineBLK",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/HardLineBLK.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "itsRealWeather",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/itsRealWeather.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "skHardLine",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/skHardLine.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "SKW5_v2",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/SKW5_v2.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "SKW6",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/SKW6.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
+        "title": "SLCard",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/SLCard.zip"
     }
 ]
