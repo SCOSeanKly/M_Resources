@@ -1,8 +1,9 @@
 [
-    {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
-        "title": "Archive",
-        "subtitle": "21mb",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/archive.zip"
-    }
+  {
+    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Iconic_Apple_Icons.png",
+    "title": "Iconic Apple Icons",
+    "subtitle": "A collection of Apple device and accesories in realistic detail",
+    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Iconic_Apple_Icons.zip"
+  }
 ]
+
