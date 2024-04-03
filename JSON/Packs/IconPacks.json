@@ -1,5 +1,17 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Mut3d.png",
+    "title": "Mut3d Icons",
+    "subtitle": "Muted colours",
+    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Mut3d.zip"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Mut3d_Black.png",
+    "title": "Mut3d Black Icons",
+    "subtitle": "Muted colours but black",
+    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Mut3d_Black.zip"
+  },
+  {
     "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Min3ral.png",
     "title": "Min3ral Icons",
     "subtitle": "Mineral colours",
