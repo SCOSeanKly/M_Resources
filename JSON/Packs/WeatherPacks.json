@@ -1,4 +1,29 @@
 [
+
+   {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/SimpleOutline.png",
+        "title": "Simple OL",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/SimpleOutline.zip"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/Studio.png",
+        "title": "Studio",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Studio.zip"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/Toonish.png",
+        "title": "Toonish",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Toonish.zip"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/TPurple.png",
+        "title": "T Purple",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/TPurple.zip"
+    },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/1NF3RRED.png",
         "title": "1NF3RRED",
