@@ -95,5 +95,11 @@
         "title": "skNeon",
         "subtitle": "Weather Icon Pack",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/skNeon.zip"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/skKhanTrans.png",
+        "title": "skKhanTrans",
+        "subtitle": "Weather Icon Pack",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/skKhanTrans.zip"
     }
 ]
