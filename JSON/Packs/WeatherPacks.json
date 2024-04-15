@@ -91,15 +91,15 @@
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/skFlatShadow.zip"
     },
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/skNeon.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/p_skNeon.png",
         "title": "skNeon",
         "subtitle": "Weather Icon Pack",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/skNeon.zip"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/p_skNeon.zip"
     },
      {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/skKhanTrans.png",
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/Images/p_skKhanTrans.png",
         "title": "skKhanTrans",
         "subtitle": "Weather Icon Pack",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/skKhanTrans.zip"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WeatherPacks/p_skKhanTrans.zip"
     }
 ]
