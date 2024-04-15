@@ -34,10 +34,15 @@
         "imageURL": "https://pbs.twimg.com/profile_images/1753301097882763264/4rGQW-tG_400x400.jpg",
         "socialURL": "https://twitter.com/patricialeveq"
     },
-     {
+    {
         "name": "JCRocky5",
         "imageURL": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
         "socialURL": "https://twitter.com/JCRocky5"
+    },
+    {
+        "name": "Hiit3sH",
+        "imageURL": "https://unavatar.io/twitter/Hiit3sH",
+        "socialURL": "https://twitter.com/Hiit3sH"
     }
 ]
 
