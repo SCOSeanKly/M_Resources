@@ -15,6 +15,7 @@
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Minimal5.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Thumbnails/Minimal5_thumb.jpg",
         "title": "Minimal 5",
         "subtitle": "A Widgy Widget by @ElijahCreative",
          "description": "Minimal 5 features a multi-colored font style for the time label to show hours and minutes, as well as an info line above it with date/day and sunrise/sunset info. At the bottom, you’ll have your temperature ring with a highlighted dot and the latest Apple news heading.",
