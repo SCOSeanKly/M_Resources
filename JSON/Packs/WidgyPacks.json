@@ -1,8 +1,11 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/Wallpapers/p_SKE521.jpg",
-        "title": "Archive",
-        "subtitle": "21mb",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/archive.zip"
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/CoralBreeze.jpg",
+        "title": "Coral Breeze",
+        "subtitle": "A Widgy Widget by @ElijahCreative",
+         "description": "Step into the world of Coral Breeze where vintage charm meets modern functionality! Inspired by the refreshing hues of coral reefs, this widget brings you real-time weather with a touch of retro elegance.",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/JSON/ZIP/CoralBreeze.widgy"
     }
 ]
+
+
