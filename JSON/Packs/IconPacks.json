@@ -1,5 +1,5 @@
 [
-  {
+    {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Mut3d.png",
         "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_Mut3d.png",
         "title": "Mut3d Icons",
@@ -10,60 +10,93 @@
         "creatorSocialLink": "https://x.com/SeanKly",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Mut3d.zip"
     },
-
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Mut3d_Black.png",
-    "title": "Mut3d Black Icons",
-    "subtitle": "102 Muted Ions In Black",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Mut3d_Black.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Min3ral.png",
-    "title": "Min3ral Icons",
-    "subtitle": "199 Mineral Coloured Icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Min3ral.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_3listic.png",
-    "title": "3listic Icons",
-    "subtitle": "129 Realistic Icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_3listic.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Inv3rt.png",
-    "title": "Inv3rt Icons",
-    "subtitle": "69 Inverted Coloured Icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Inv3rt.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_T3al.png",
-    "title": "T3al Icons",
-    "subtitle": "96 Teal Icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_T3al.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_mag3nta.png",
-    "title": "mag3nta Icons",
-    "subtitle": "115 Magenta and red coloured icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_mag3nta.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Chewies.png",
-    "title": "Chewies Icons",
-    "subtitle": "158 Bright and colourful icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Chewies.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_J3nny.png",
-    "title": "J3nny Icons",
-    "subtitle": "102 Bright and colourful icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_J3nny.zip"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Iconic_Apple_Icons.png",
-    "title": "Iconic Apple Icons",
-    "subtitle": "30 Realistic Apple Device Icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Iconic_Apple_Icons.zip"
-  }
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Mut3d_Black.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_Mut3d_Black.png",
+        "title": "Mut3d Black Icons",
+        "subtitle": "102 Muted Ions In Black",
+        "description": "Explore a collection of 108 meticulously crafted dark-themed icons, each distinguished by its own unique design and intricate details. These icons offer a sophisticated touch to your device",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Mut3d_Black.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_3listic.png",
+        "title": "p_3listic Icons",
+        "subtitle": "129 Realistic Icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Min3ral.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_3listic.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Inv3rt.png",
+        "title": "Inv3rt Icons",
+        "subtitle": "69 Inverted Coloured Icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Inv3rt.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_Inv3rt.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_T3al.png",
+        "title": "T3al Icons",
+        "subtitle": "96 Teal Icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_T3al.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_T3al.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_mag3nta.png",
+        "title": "mag3nta Icons",
+        "subtitle": "115 Magenta and red coloured icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_mag3nta.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_mag3nta.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Chewies.png",
+        "title": "Chewies Icons",
+        "subtitle": "158 Bright and colourful icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Chewies.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_Chewies.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_J3nny.png",
+        "title": "J3nny Icons",
+        "subtitle": "102 Bright and colourful icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_J3nny.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_J3nny.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Iconic_Apple_Icons.png",
+        "title": "Iconic Apple Icons",
+        "subtitle": "30 Realistic Apple Device Icons",
+        "description": "DescriptionTBA",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Iconic_Apple_Icons.zip",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_Iconic_Apple_Icons.png",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
+        "creatorSocialLink": "https://x.com/SeanKly"
+    }
 ]
 
