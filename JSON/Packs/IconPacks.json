@@ -1,10 +1,16 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Mut3d.png",
-    "title": "Mut3d Icons",
-    "subtitle": "108 Muted Coloured Icons",
-    "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Mut3d.zip"
-  },
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Mut3d.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/p_Mut3d.png",
+        "title": "Mut3d Icons",
+        "subtitle": "108 Muted Coloured Icons",
+        "description": "Explore a collection of 108 meticulously crafted dark-themed icons, each distinguished by its own unique design and intricate details. These icons offer a sophisticated touch to your device",
+        "creatorUsername": "SCOSeanKly",
+        "creatorAvatar": "https://unavatar.io/twitter/SCOSeanKly",
+        "creatorSocialLink": "https://x.com/SCOSeanKly",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/p_Mut3d.zip"
+    },
+
   {
     "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/p_Mut3d_Black.png",
     "title": "Mut3d Black Icons",
