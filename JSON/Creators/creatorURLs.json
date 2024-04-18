@@ -2,51 +2,44 @@
     {
         "name": "widgy",
         "subPath": "M_Resources/main/Widgys/",
-        "jsonFile": "M_Resources/main/JSON/widgyImages.json",
-        "imageURL": "https://styles.redditmedia.com/t5_3334im/styles/communityIcon_aee8qyofc3m61.png",
+        "jsonFile": "M_Resources/main/JSON/Widgys/widgyImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/widgy.jpg",
         "socialURL": "https://www.reddit.com/r/widgy/"
     },
     {
         "name": "SeanKly",
         "subPath": "M_Resources/main/Wallpapers/",
-        "jsonFile": "M_Resources/main/JSON/wallpaperImages.json",
-        "imageURL": "https://unavatar.io/twitter/SeanKly",
+        "jsonFile": "M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
         "socialURL": "https://twitter.com/SeanKly?ttl=1h"
     },
     {
         "name": "ElijahCreative",
         "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
         "jsonFile": "ElijahCreative_M_Resources/main/JSON/elijahCreative.json",
-        "imageURL": "https://unavatar.io/twitter/ElijahCreative",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ElijahCreative.jpg",
         "socialURL": "https://twitter.com/ElijahCreative?ttl=1h"
     },
     {
         "name": "TeboulDavid1",
         "subPath": "SmartWallpaperArt_M_Resources/main/Wallpapers/",
         "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/SmartWallpaperArt.json",
-        "imageURL": "https://unavatar.io/twitter/TeboulDavid1",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
         "socialURL": "https://twitter.com/TeboulDavid1?ttl=1h"
     },
     {
         "name": "timetravelr2025",
         "subPath": "TimeTraveler_M_Resources/main/Wallpapers/",
         "jsonFile": "TimeTraveler_M_Resources/main/JSON/timetravelr2025.json",
-        "imageURL": "https://unavatar.io/twitter/timetravelr2025?ttl=1h",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/timetravelr2025.jpg",
         "socialURL": "https://twitter.com/timetravelr2025"
     },
     {
         "name": "AIFinity76",
         "subPath": "AIFinity76_M_Resources/main/Wallpapers/",
         "jsonFile": "AIFinity76_M_Resources/main/JSON/AIFinity76.json",
-        "imageURL": "https://unavatar.io/twitter/AIFinity76",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/AIFinity76.jpg",
         "socialURL": "https://twitter.com/AIFinity76?ttl=1h"
-    },
-    {
-        "name": "patricialeveq",
-        "subPath": "patricialeveq_M_Resources/main/Wallpapers/",
-        "jsonFile": "patricialeveq_M_Resources/main/JSON/patricialeveq.json",
-        "imageURL": "https://pbs.twimg.com/profile_images/1753301097882763264/4rGQW-tG_400x400.jpg",
-        "socialURL": "https://twitter.com/patricialeveq?ttl=1h"
     }
 ]
 
