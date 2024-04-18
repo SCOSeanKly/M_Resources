@@ -3,19 +3,71 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Images/Ultra_Modern_Rooms.jpg",
         "title": "Spaces v1",
         "subtitle": "15 beautiful wallpapers featuring modern living spaces",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Ultra_Modern_Rooms.zip"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Files/Ultra_Modern_Rooms.zip"
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Images/XiaomiStock.jpg",
         "title": "Xiaomi Stock",
         "subtitle": "Xiamo Stock Wallpapers",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/XiaomiStock.zip"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Files/XiaomiStock.zip"
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Images/zteStock.jpg",
         "title": "ZTE Stock",
         "subtitle": "ZTE Stock Wallpapers",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/zteStock.zip"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Files/zteStock.zip"
+    },
+
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/TTP1_3.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/TTP-abstract-8.zip",
+        "title": "Abstract",
+        "subtitle": "Wallpaper pack by timetravelr2025",
+        "description": "Introducing a stunning collection of 8 abstract wallpapers, meticulously crafted to showcase elegant, smooth lines and captivating designs",
+        "creatorUsername": "timetravelr2025",
+        "creatorAvatar": "https://unavatar.io/twitter/timetravelr2025",
+        "creatorSocialLink": "https://twitter.com/timetravelr2025"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/TTP2_4.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/TTP-Apple-Logo-8.zip",
+        "title": "Apple Logo",
+        "subtitle": "Wallpaper pack by timetravelr2025",
+        "description": "Presenting an exquisite collection of 8 abstract wallpapers, each adorned with the iconic Apple logo. Expertly designed to merge elegance with simplicity",
+        "creatorUsername": "timetravelr2025",
+        "creatorAvatar": "https://unavatar.io/twitter/timetravelr2025",
+        "creatorSocialLink": "https://twitter.com/timetravelr2025"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/TTP3_3.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/TTP-Landscapes-8.zip",
+        "title": "Landscapes",
+        "subtitle": "Wallpaper pack by timetravelr2025",
+        "description": "A breathtaking collection of 8 abstract wallpapers, each capturing the serene beauty of landscapes",
+        "creatorUsername": "timetravelr2025",
+        "creatorAvatar": "https://unavatar.io/twitter/timetravelr2025",
+        "creatorSocialLink": "https://twitter.com/timetravelr2025"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/TTP4_1.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/TTP-red-and-blue-8.zip",
+        "title": "Red and Blue",
+        "subtitle": "Wallpaper pack by timetravelr2025",
+        "description": "Unveiling a captivating collection of 8 abstract wallpapers, highlighting the vibrant hues of red and blue. Each design is a symphony of bold colors and intricate patterns",
+        "creatorUsername": "timetravelr2025",
+        "creatorAvatar": "https://unavatar.io/twitter/timetravelr2025",
+        "creatorSocialLink": "https://twitter.com/timetravelr2025"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/TTP5_1.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/TTP-sleek-8.zip",
+        "title": "Sleek",
+        "subtitle": "Wallpaper pack by timetravelr2025",
+        "description": "A harmonious blend of warm hues, exuding energy, passion, and sophistication",
+        "creatorUsername": "timetravelr2025",
+        "creatorAvatar": "https://unavatar.io/twitter/timetravelr2025",
+        "creatorSocialLink": "https://twitter.com/timetravelr2025"
     }
+
 ]
 
