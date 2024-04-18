@@ -2,44 +2,352 @@
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/CoralBreeze.jpg",
         "title": "Coral Breeze",
-        "subtitle": "A Widgy Widget by @ElijahCreative",
+        "subtitle": "A Widgy Widget by ElijahCreative",
         "description": "Step into the world of Coral Breeze where vintage charm meets modern functionality! Inspired by the refreshing hues of coral reefs, this widget brings you real-time weather with a touch of retro elegance.",
         "creatorUsername": "ElijahCreative",
         "creatorAvatar": "https://unavatar.io/twitter/ElijahCreative",
         "creatorSocialLink": "https://x.com/ElijahCreative",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/CoralBreeze.widgy"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/CoralBreeze.widgy"
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JU!CE.jpg",
         "title": "JU!CE",
-        "subtitle": "A Widgy Widget by @ElijahCreative",
+        "subtitle": "A Widgy Widget by ElijahCreative",
         "description": "Meet JU!CE, the weather widget that will quench your thirst for informative forecasts! Sip on a refreshing blend of vibrant orange hues, carefully crafted to brighten up your device's home screen.",
         "creatorUsername": "ElijahCreative",
         "creatorAvatar": "https://unavatar.io/twitter/ElijahCreative",
         "creatorSocialLink": "https://x.com/ElijahCreative",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/JU!CE.widgy"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JU!CE.widgy"
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Minimal5.jpg",
         "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Thumbnails/Minimal5_thumb.jpg",
         "title": "Minimal 5",
-        "subtitle": "A Widgy Widget by @ElijahCreative",
+        "subtitle": "A Widgy Widget by ElijahCreative",
         "description": "Minimal 5 features a multi-colored font style for the time label to show hours and minutes, as well as an info line above it with date/day and sunrise/sunset info. At the bottom, you’ll have your temperature ring with a highlighted dot and the latest Apple news heading.",
         "creatorUsername": "ElijahCreative",
         "creatorAvatar": "https://unavatar.io/twitter/ElijahCreative",
         "creatorSocialLink": "https://x.com/ElijahCreative",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Minimal5.widgy"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Minimal5.widgy"
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/SWA_Exclusive.jpg",
         "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Thumbnails/SWA_Exclusive_thumb.jpg",
         "title": "SWA Exclusive",
-        "subtitle": "A Widgy Widget by @TeboulDavid1",
+        "subtitle": "A Widgy Widget by TeboulDavid1",
         "description": "SWA Exclusive widgy widget. A beautiful dark gradient widget featuring the weather, battery percentage and much more.",
         "creatorUsername": "TeboulDavid1",
         "creatorAvatar": "https://unavatar.io/twitter/TeboulDavid1",
         "creatorSocialLink": "https://x.com/TeboulDavid1",
-        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/SWA_Exclusive_QR.JPG"
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/SWA_Exclusive_QR.JPG"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR001.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR001.png",
+
+        "title": "JCR001",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR002.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR002.png",
+
+        "title": "JCR002",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR003.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR003.png",
+
+        "title": "JCR003",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR004.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR004.png",
+
+        "title": "JCR004",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR005.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR005.png",
+
+        "title": "JCR005",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR006.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR006.png",
+
+        "title": "JCR006",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR007.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR007.png",
+
+        "title": "JCR007",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR008.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR008.png",
+
+        "title": "JCR008",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR009.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR009.png",
+
+        "title": "JCR009",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR010.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR010.png",
+
+        "title": "JCR010",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR011.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR011.png",
+
+        "title": "JCR011",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR012.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR012.png",
+
+        "title": "JCR012",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR013.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR013.png",
+
+        "title": "JCR013",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR014.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR014.png",
+
+        "title": "JCR014",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR015.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR015.png",
+
+        "title": "JCR015",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR016.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR016.png",
+
+        "title": "JCR016",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR017.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR017.png",
+
+        "title": "JCR017",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR018.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR018.png",
+
+        "title": "JCR018",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/JCR019.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/JCR019.png",
+
+        "title": "JCR019",
+        "subtitle": "A Widgy Widget by JCRocky5",
+        "description": "JCRocky5 possesses an extraordinary talent for crafting innovative widgets. He has been creating widgy widgets since the inception of the Widgy app years ago. Don't miss out—download his unique widgy QR code now!",
+        "creatorUsername": "JCRocky5",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/907793292385046528/0u-PjOCB_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/JCRocky5"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/ASMI001.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/ASMI001.png",
+
+        "title": "ASMI001",
+        "subtitle": "A Widgy Widget by Asmifrere",
+        "description": "Asmi Frere is a highly skilled widget creator, renowned for his distinctive design and innovative approach to widget creation. He has a keen eye for aesthetics, favoring dark setups that beautifully complement dark wallpapers.",
+        "creatorUsername": "Asmifrere",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/1731312686556684289/EVb8Jnlj_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/Asmifrere"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/ASMI006.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/ASMI006.png",
+
+        "title": "ASMI006",
+        "subtitle": "A Widgy Widget by Asmifrere",
+        "description": "Asmi Frere is a highly skilled widget creator, renowned for his distinctive design and innovative approach to widget creation. He has a keen eye for aesthetics, favoring dark setups that beautifully complement dark wallpapers.",
+        "creatorUsername": "Asmifrere",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/1731312686556684289/EVb8Jnlj_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/Asmifrere"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/ASMI007.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/ASMI007.png",
+
+        "title": "ASMI007",
+        "subtitle": "A Widgy Widget by Asmifrere",
+        "description": "Asmi Frere is a highly skilled widget creator, renowned for his distinctive design and innovative approach to widget creation. He has a keen eye for aesthetics, favoring dark setups that beautifully complement dark wallpapers.",
+        "creatorUsername": "Asmifrere",
+        "creatorAvatar": "https://pbs.twimg.com/profile_images/1731312686556684289/EVb8Jnlj_400x400.jpg",
+        "creatorSocialLink": "https://twitter.com/Asmifrere"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII001.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII001.png",
+
+        "title": "HII001",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://unavatar.io/twitter/Hiit3sH",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII002.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII002.png",
+
+        "title": "HII002",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://unavatar.io/twitter/Hiit3sH",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII003.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII003.png",
+
+        "title": "HII003",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://unavatar.io/twitter/Hiit3sH",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII004.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII004.png",
+
+        "title": "HII004",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://unavatar.io/twitter/Hiit3sH",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII005.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII005.png",
+
+        "title": "HII005",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://unavatar.io/twitter/Hiit3sH",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII006.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII006.png",
+
+        "title": "HII006",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://unavatar.io/twitter/Hiit3sH",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
     },
 ]
 
