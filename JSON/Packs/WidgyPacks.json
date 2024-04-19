@@ -753,6 +753,17 @@
         "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hiit3sH.jpg",
         "creatorSocialLink": "https://twitter.com/Hiit3sH"
     },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/skExclusive.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Thumbnails/skExclusive_thumb.jpg",
+        "title": "M Exclusive",
+        "subtitle": "A Widgy Widget by ElijahCreative",
+        "description": "An exclusive widgy widget showing daily and hourly forecast. Exclusive to M app.",
+        "creatorUsername": "ElijahCreative",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ElijahCreative.jpg",
+        "creatorSocialLink": "https://x.com/ElijahCreative",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/skExclusiveQR.jpg"
+    },
 ]
 
 
