@@ -742,7 +742,17 @@
         "creatorUsername": "DesignByRoss",
         "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DesignByRoss.jpg",
         "creatorSocialLink": "https://twitter.com/DesignByRoss"
-    }
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/HII017.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/HII017QR.jpg",
+        "title": "HII007",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hiit3sH.jpg",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
 ]
 
 
