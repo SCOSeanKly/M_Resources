@@ -97,6 +97,85 @@
         "creatorUsername": "SCOSeanKly",
         "creatorAvatar": "https://unavatar.io/twitter/SeanKly",
         "creatorSocialLink": "https://x.com/SeanKly"
+    },
+    
+    
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/DarkKnight.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/DarkKnight_thumbnail.png",
+        "title": "DarkKnight",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/DarkKnight.zip",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Marron.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/Marron_thumbnail.png",
+        "title": "Marron",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/Marron.zip",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/MetricSquare.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/MetricSquare_thumbnail.png",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/MetricSquare.zip",
+        "title": "Metric Square",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Odysseus.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/Odysseus_thumbnail.png",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/Odysseus.zip",
+        "title": "Odysseus",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/OdysseusDark.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/OdysseusDark_thumbnail.png",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/OdysseusDark.zip",
+        "title": "Odysseus Dark",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Orsam.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/Orsam_thumbnail.png",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/Orsam.zip",
+        "title": "Orsam",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Simplest.png",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Images/Thumbnails/Simplest_thumbnail.png",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/IconPacks/Files/Simplest.zip",
+        "title": "Simplest",
+        "subtitle": "Icon pack by daddykool666",
+        "description": "",
+        "creatorUsername": "daddykool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/daddykool666.jpg",
+        "creatorSocialLink": "https://x.com/daddykool666"
     }
 ]
 
