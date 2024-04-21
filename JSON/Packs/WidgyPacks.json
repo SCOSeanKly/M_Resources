@@ -786,5 +786,35 @@
         "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hiit3sH.jpg",
         "creatorSocialLink": "https://twitter.com/Hiit3sH"
     },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/SWA26.jpg",
+        "title": "SWA 26",
+        "subtitle": "A Widgy Widget by TeboulDavid1",
+        "description": "A modern medium widget with battery info and current weather conditions using David's own weather icons.",
+        "creatorUsername": "TeboulDavid1",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
+        "creatorSocialLink": "https://x.com/TeboulDavid1",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/SWA26QR.JPG"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/SWA27.jpg",
+        "title": "SWA 27",
+        "subtitle": "A Widgy Widget by TeboulDavid1",
+        "description": "A large Widgy widget with multiple functions. Another amazing creation from David.",
+        "creatorUsername": "TeboulDavid1",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
+        "creatorSocialLink": "https://x.com/TeboulDavid1",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/SWA27QR.JPG"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/SWA28.jpg",
+        "title": "SWA 28",
+        "subtitle": "A Duo of Widgy Widgets by TeboulDavid1",
+        "description": "Both large and medium widgets included in the zip file. Download it now and experience an ultra modern overload of information.",
+        "creatorUsername": "TeboulDavid1",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
+        "creatorSocialLink": "https://x.com/TeboulDavid1",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/SWA28.zip"
+    },
 ]
 
