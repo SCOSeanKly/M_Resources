@@ -764,7 +764,15 @@
         "creatorSocialLink": "https://x.com/ElijahCreative",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/skExclusiveQR.jpg"
     },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/ZOO003.jpg",
+        "title": "Z3",
+        "subtitle": "A Widgy Widget by Zooropalg",
+        "description": "A modern style widgy widget showing date and weather conditions",
+        "creatorUsername": "Zooropalg",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Zooropalg.jpg",
+        "creatorSocialLink": "https://x.com/Zooropalg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/ZOO003QR.png"
+    },
 ]
-
-
 
