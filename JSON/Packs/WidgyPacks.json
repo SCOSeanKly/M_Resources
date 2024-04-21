@@ -775,5 +775,16 @@
         "creatorSocialLink": "https://x.com/Zooropalg",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/ZOO003QR.png"
     },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/WeatherInClock.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Thumbnails/WeatherInClock_thumb.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/WeatherInClock.widgy",
+        "title": "Weather In Clock",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hiit3sH.jpg",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
 ]
 
