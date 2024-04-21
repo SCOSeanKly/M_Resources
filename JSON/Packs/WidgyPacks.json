@@ -766,6 +766,7 @@
     },
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/ZOO003.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Thumbnails/ZOO003_thumb.jpg",
         "title": "Z3",
         "subtitle": "A Widgy Widget by Zooropalg",
         "description": "A modern style widgy widget showing date and weather conditions",
