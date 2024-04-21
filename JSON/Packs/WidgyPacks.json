@@ -816,5 +816,15 @@
         "creatorSocialLink": "https://x.com/TeboulDavid1",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/SWA28.zip"
     },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Pandion.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Pandion.widgy",
+        "title": "Pandion",
+        "subtitle": "A Widgy Widget by DesignByRoss",
+        "description": "Large widget with today info and 4 day forecast.",
+        "creatorUsername": "DesignByRoss",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DesignByRoss.jpg",
+        "creatorSocialLink": "https://twitter.com/DesignByRoss"
+    },
 ]
 
