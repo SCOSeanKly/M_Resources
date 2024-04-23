@@ -829,12 +829,22 @@
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/SWA29.png",
         "title": "SWA 29",
-        "subtitle": "A Widgy Widgetby TeboulDavid1",
+        "subtitle": "A Widgy Widget by TeboulDavid1",
         "description": "A beautiful widget showing a large date, weather conditions and battery level. Overlay included in the zip file.",
         "creatorUsername": "TeboulDavid1",
         "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
         "creatorSocialLink": "https://x.com/TeboulDavid1",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/SWA29.zip"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/WeatherCur2.png",
+        "title": "Weather Cur 2",
+        "subtitle": "A Widgy Widget by alxboss",
+        "description": "A beautiful widget showing weather conditions and tempertaure",
+        "creatorUsername": "alxboss",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/alxboss.jpg",
+        "creatorSocialLink": "https://x.com/alxboss",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/WeatherCur2.zip"
     },
 ]
 
