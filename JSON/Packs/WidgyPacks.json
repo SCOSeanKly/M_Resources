@@ -927,5 +927,36 @@
         "creatorSocialLink": "https://twitter.com/Zooropalg"
     },
 
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/RévolutionMini.jpg",
+        "title": "Révolution Mini",
+        "subtitle": "A Widgy Widget by alxboss",
+        "description": "Super modern and minimal Widgy widget",
+        "creatorUsername": "alxboss",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/alxboss.jpg",
+        "creatorSocialLink": "https://x.com/alxboss",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/RévolutionMini.widgy.widgy"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/WeatherCut.jpg",
+        "title": "Weather Cut",
+        "subtitle": "A Widgy Widget by alxboss",
+        "description": "Dark widget showing weather conditions",
+        "creatorUsername": "alxboss",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/alxboss.jpg",
+        "creatorSocialLink": "https://x.com/alxboss",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/WeatherCut.widgy"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/WeatherDay.jpg",
+        "title": "WeatherDay",
+        "subtitle": "A Widgy Widget by alxboss",
+        "description": "A beautiful widget showing weather conditions and temperature",
+        "creatorUsername": "alxboss",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/alxboss.jpg",
+        "creatorSocialLink": "https://x.com/alxboss",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/WeatherDay.widgy"
+    },
+
 ]
 
