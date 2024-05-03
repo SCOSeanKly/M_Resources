@@ -958,5 +958,47 @@
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/WeatherDay.widgy"
     },
 
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Z4.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Z4QR.jpg",
+        "title": "Z4 Exclusive",
+        "subtitle": "A Widgy Widget by Zooropalg",
+        "description": "Zooropalg has been a prominent figure in the theming community for many years. We're thrilled to continue experiencing his innovative creations through Widgy Widgets",
+        "creatorUsername": "Zooropalg",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Zooropalg.jpg",
+        "creatorSocialLink": "https://twitter.com/Zooropalg"
+    },
+
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Z5.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Z5QR.jpg",
+        "title": "Z5 Exclusive",
+        "subtitle": "A Widgy Widget by Zooropalg",
+        "description": "Zooropalg has been a prominent figure in the theming community for many years. We're thrilled to continue experiencing his innovative creations through Widgy Widgets",
+        "creatorUsername": "Zooropalg",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Zooropalg.jpg",
+        "creatorSocialLink": "https://twitter.com/Zooropalg"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Z6.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Z6QR.jpg",
+        "title": "Z6 Exclusive",
+        "subtitle": "A Widgy Widget by Zooropalg",
+        "description": "Zooropalg has been a prominent figure in the theming community for many years. We're thrilled to continue experiencing his innovative creations through Widgy Widgets",
+        "creatorUsername": "Zooropalg",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Zooropalg.jpg",
+        "creatorSocialLink": "https://twitter.com/Zooropalg"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/Essentials.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Essentials.widgy",
+        "title": "Essentials",
+        "subtitle": "A Widgy Widget by Hiit3sH",
+        "description": "If you're seeking widgets that offer multiple tap actions and diverse screens filled with comprehensive information, then Hiit3sH is the perfect choice.",
+        "creatorUsername": "Hiit3sH",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hiit3sH.jpg",
+        "creatorSocialLink": "https://twitter.com/Hiit3sH"
+    },
+
 ]
 
