@@ -132,7 +132,17 @@
         "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
         "creatorSocialLink": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/SeanKly.jpg"
     },
-
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Images/WalnutWalls.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Images/Thumbnails/WalnutWalls_thumb.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WallpaperPacks/Files/p_WalnutWalls.zip",
+        "title": "Walnut Walls",
+        "subtitle": "Wallpaper pack by SeanKly",
+        "description": "21 Beautiful warm and rich walnut and other rare species wood textures overlayed with dark charred wood or glossy epoxy resin",
+        "creatorUsername": "SeanKly",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
+        "creatorSocialLink": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/SeanKly.jpg"
+    },
 
 ]
 
