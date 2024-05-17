@@ -43,5 +43,15 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock9.png",
         "title": "Dock 9",
         "subtitle": "Transparent"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/dock10.png",
+        "title": "Dock 10",
+        "subtitle": "Dark Bevel Effect"
+    }, 
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/dock11.png",
+        "title": "Dock 11",
+        "subtitle": "Light Bevel Effect"
     }
 ]
