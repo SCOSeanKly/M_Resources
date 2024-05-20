@@ -53,5 +53,25 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock11.png",
         "title": "Dock 11",
         "subtitle": "Light Bevel Effect"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock12.png",
+        "title": "Dock 12",
+        "subtitle": "Bump Dark"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock13.png",
+        "title": "Dock 13",
+        "subtitle": "Bump Black"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock14.png",
+        "title": "Dock 14",
+        "subtitle": "Bump Light"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock15.png",
+        "title": "Dock 15",
+        "subtitle": "Extended Design 1"
     }
 ]
