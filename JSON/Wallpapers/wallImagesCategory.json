@@ -4,7 +4,15 @@
         "images": [
             "SKE1.jpg",
             "SKE2.jpg",
-            "SKE3.jpg"
+            "SKE3.jpg",
+            "SKE7.jpg",
+            "SKE8.jpg",
+            "SKE9.jpg",
+            "SKE10.jpg",
+            "SKE11.jpg",
+            "SKE12.jpg",
+            "SKE13.jpg"
+           
         ]
     },
     {
@@ -12,7 +20,134 @@
         "images": [
             "SKE4.jpg",
             "SKE5.jpg",
-            "SKE6.jpg"
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Travel",
+        "images": [
+              "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Food",
+        "images": [
+             "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Animals",
+        "images": [
+              "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Architecture",
+        "images": [
+              "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Sports",
+        "images": [
+              "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Art",
+        "images": [
+             "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Fashion",
+        "images": [
+             "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
+        ]
+    },
+    {
+        "category": "Music",
+        "images": [
+              "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg",
+            "SKE14.jpg",
+            "SKE15.jpg",
+            "SKE16.jpg",
+            "SKE17.jpg",
+            "SKE18.jpg",
+            "SKE19.jpg",
+            "SKE20.jpg"
         ]
     }
 ]
