@@ -1,0 +1,18 @@
+[
+    {
+        "category": "Nature",
+        "images": [
+            "SKE1.jpg",
+            "SKE2.jpg",
+            "SKE3.jpg"
+        ]
+    },
+    {
+        "category": "Technology",
+        "images": [
+            "SKE4.jpg",
+            "SKE5.jpg",
+            "SKE6.jpg"
+        ]
+    }
+]
