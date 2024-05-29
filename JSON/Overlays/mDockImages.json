@@ -73,5 +73,20 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock15.png",
         "title": "Dock 15",
         "subtitle": "Extended Design 1"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock16.png",
+        "title": "Dock 16",
+        "subtitle": "Embossed Curve Dark"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock17.png",
+        "title": "Dock 17",
+        "subtitle": "Embossed Curve Mix"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Dock/dock18.png",
+        "title": "Dock 18",
+        "subtitle": "Embossed Curve Light"
     }
 ]
