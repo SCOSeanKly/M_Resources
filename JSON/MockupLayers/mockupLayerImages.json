@@ -1,7 +1,15 @@
-[
-    "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/MockupLayers/OverlayShadows1.png",
-    "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/MockupLayers/OverlayShadows2.png",
-    "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/MockupLayers/OverlayShadows3.png",
-    "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/MockupLayers/OverlayShadows4.png",
-    "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/MockupLayers/OverlayShadows5.png"
-]
+{
+    "Overlays": [
+        "OverlayShadows1.png",
+        "OverlayShadows2.png",
+        "OverlayShadows3.png",
+        "OverlayShadows4.png",
+        "OverlayShadows5.png"
+    ],
+    "Backgrounds": [
+        "background1.png",
+        "background2.png",
+        "background3.png"
+    ]
+}
+
