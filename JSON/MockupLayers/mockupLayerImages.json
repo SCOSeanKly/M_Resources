@@ -14,14 +14,14 @@
         "OverlayShadows11.png",
         "OverlayShadows12.png",
         "OverlayShadows13.png",
+        "OverlayFloodLights.png"
 
     ],
 
     "Backgrounds": [
         "PodiumCreamBG.png",
         "PodiumRedBG.png",
-        "PodiumGreenBG.png",
-        "iPhoneShadow.png"
+        "PodiumGreenBG.png"
         
     ]
 }
