@@ -1,13 +1,20 @@
 {
     "Overlays": [
+
         "OverlayShadows1.png",
         "OverlayShadows2.png",
         "OverlayShadows3.png",
         "OverlayShadows4.png",
-        "OverlayShadows5.png"
+        "OverlayShadows5.png",
+        "OverlayShadows6.png"
+
     ],
+
     "Backgrounds": [
-        "testBG1.png"
+        "PodiumCreamBG.png",
+        "PodiumRedBG.png",
+        "PodiumGreenBG.png"
+        
     ]
 }
 
