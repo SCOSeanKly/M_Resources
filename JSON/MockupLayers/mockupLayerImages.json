@@ -20,13 +20,19 @@
         "OverlayFloodLights.png",
         "HolographicConfetti.png"
 
+
+
+
     ],
 
     "Backgrounds": [
         "PodiumCreamBG.png",
         "PodiumRedBG.png",
         "PodiumGreenBG.png",
-        "ConcreteAndLeather.png"
+        "ConcreteAndLeather.png",
+        "MattShelf.png",
+        "WoodAndBrick.png",
+        "WoodBokeh.png"
         
     ]
 }
