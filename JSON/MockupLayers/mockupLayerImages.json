@@ -18,18 +18,15 @@
         "OverlayShadows15.png",
         "OverlayShadows16.png",
         "OverlayFloodLights.png",
-        "HolographicConfetti.png",
-        "PlasticWrap1.png",
-        "PlasticWrap2.png",
-        "PlasticWrap3.png",
-        "PlasticWrap4.png"
+        "HolographicConfetti.png"
 
     ],
 
     "Backgrounds": [
         "PodiumCreamBG.png",
         "PodiumRedBG.png",
-        "PodiumGreenBG.png"
+        "PodiumGreenBG.png",
+        "ConcreteAndLeather.png"
         
     ]
 }
