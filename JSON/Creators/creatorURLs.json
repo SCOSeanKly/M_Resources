@@ -40,7 +40,15 @@
         "jsonFile": "AIFinity76_M_Resources/main/JSON/AIFinity76.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/AIFinity76.jpg",
         "socialURL": "https://twitter.com/AIFinity76?ttl=1h"
+    },
+    {
+        "name": "EditorsChoice",
+        "subPath": "EditorsChoice/main/Wallpapers/",
+        "jsonFile": "EditorsChoice/main/JSON/EditorsChoice.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
+        "socialURL": "https://twitter.com/SeanKly?ttl=1h"
     }
+
 ]
 
 
