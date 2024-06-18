@@ -20,7 +20,8 @@
         "OverlayFloodLights.png",
         "HolographicConfetti.png",
         "iPhoneBottomShadowEffect.png",
-        "screenProtector.png"
+        "screenProtector.png",
+        "SmokeOverlay1.png"
 
     ],
 
@@ -31,7 +32,8 @@
         "ConcreteAndLeather.png",
         "MattShelf.png",
         "WoodAndBrick.png",
-        "WoodBokeh.png"
+        "WoodBokeh.png",
+        "Smokin.png"
         
     ]
 }
