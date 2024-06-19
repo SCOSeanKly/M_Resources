@@ -188,5 +188,20 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay39.png",
         "title": "Overlay 39",
         "subtitle": "Film Grain"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay40.png",
+        "title": "Overlay 40",
+        "subtitle": "Turing Light"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay41.png",
+        "title": "Overlay 41",
+        "subtitle": "Turing Darker"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay42.png",
+        "title": "Overlay 42",
+        "subtitle": "Pebbles"
     }
 ]
