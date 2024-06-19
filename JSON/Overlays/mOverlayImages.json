@@ -203,5 +203,20 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay42.png",
         "title": "Overlay 42",
         "subtitle": "Pebbles"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay43.png",
+        "title": "Overlay 43",
+        "subtitle": "Grunge Watercolor"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay44.png",
+        "title": "Overlay 44",
+        "subtitle": "Scattered"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay45.png",
+        "title": "Overlay 45",
+        "subtitle": "Scattered BW"
     }
 ]
