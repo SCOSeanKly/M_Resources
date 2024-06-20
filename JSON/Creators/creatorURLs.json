@@ -9,7 +9,7 @@
     {
         "name": "SeanKly",
         "subPath": "M_Resources/main/Wallpapers/",
-        "jsonFile": "M_Resources/main/JSON/wallpaperImages.json",
+        "jsonFile": "M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
         "socialURL": "https://twitter.com/SeanKly?ttl=1h"
     },
