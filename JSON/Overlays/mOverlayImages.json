@@ -223,5 +223,25 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay46.png",
         "title": "Overlay 46",
         "subtitle": "Braille"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay47.png",
+        "title": "Overlay 47",
+        "subtitle": "Repeating"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay48.png",
+        "title": "Overlay 48",
+        "subtitle": "Repeating 2"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay49.png",
+        "title": "Overlay 49",
+        "subtitle": "Repeating 3"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay50.png",
+        "title": "Overlay 50",
+        "subtitle": "Grunge Noise"
     }
 ]
