@@ -4,85 +4,51 @@
         "subPath": "M_Resources/main/Widgys/",
         "jsonFile": "M_Resources/main/JSON/Widgys/widgyImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/widgy.jpg",
-        "socialURL": "https://www.reddit.com/r/widgy/",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://www.reddit.com/r/widgy/"
     },
     {
         "name": "SeanKly",
         "subPath": "M_Resources/main/Wallpapers/",
         "jsonFile": "M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
-        "socialURL": "https://twitter.com/SeanKly?ttl=1h",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://twitter.com/SeanKly?ttl=1h"
     },
     {
         "name": "ElijahCreative",
         "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
         "jsonFile": "ElijahCreative_M_Resources/main/JSON/elijahCreative.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ElijahCreative.jpg",
-        "socialURL": "https://twitter.com/ElijahCreative?ttl=1h",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://twitter.com/ElijahCreative?ttl=1h"
     },
     {
         "name": "TeboulDavid1",
         "subPath": "SmartWallpaperArt_M_Resources/main/Wallpapers/",
         "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/SmartWallpaperArt.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
-        "socialURL": "https://twitter.com/TeboulDavid1?ttl=1h",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://twitter.com/TeboulDavid1?ttl=1h"
     },
     {
         "name": "timetravelr2025",
         "subPath": "TimeTraveler_M_Resources/main/Wallpapers/",
         "jsonFile": "TimeTraveler_M_Resources/main/JSON/timetravelr2025.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/timetravelr2025.jpg",
-        "socialURL": "https://twitter.com/timetravelr2025",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://twitter.com/timetravelr2025"
     },
     {
         "name": "AIFinity76",
         "subPath": "AIFinity76_M_Resources/main/Wallpapers/",
         "jsonFile": "AIFinity76_M_Resources/main/JSON/AIFinity76.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/AIFinity76.jpg",
-        "socialURL": "https://twitter.com/AIFinity76?ttl=1h",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://twitter.com/AIFinity76?ttl=1h"
     },
     {
         "name": "EditorsChoice",
         "subPath": "EditorsChoice/main/Wallpapers/",
         "jsonFile": "EditorsChoice/main/JSON/EditorsChoice.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/EditorsChoice.jpg",
-        "socialURL": "https://twitter.com/SeanKly?ttl=1h",
-        "githubPrefix": "https://api.github.com/repos",
-        "githubJsonFilePath": "JSON/Wallpapers/wallpaperImages.json",
-        "githubToken": "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",
-        "githubRepo": "SCOSeanKly/M_Resources",
-        "githubPath": "Wallpapers"
+        "socialURL": "https://twitter.com/SeanKly?ttl=1h"
     }
+
 ]
 
 
