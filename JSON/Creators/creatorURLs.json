@@ -16,35 +16,35 @@
     {
         "name": "ElijahCreative",
         "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
-        "jsonFile": "ElijahCreative_M_Resources/main/JSON/wallpaperImages.json",
+        "jsonFile": "ElijahCreative_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ElijahCreative.jpg",
         "socialURL": "https://twitter.com/ElijahCreative?ttl=1h"
     },
     {
         "name": "TeboulDavid1",
         "subPath": "SmartWallpaperArt_M_Resources/main/Wallpapers/",
-        "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/wallpaperImages.json",
+        "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
         "socialURL": "https://twitter.com/TeboulDavid1?ttl=1h"
     },
     {
         "name": "timetravelr2025",
         "subPath": "TimeTraveler_M_Resources/main/Wallpapers/",
-        "jsonFile": "TimeTraveler_M_Resources/main/JSON/wallpaperImages.json",
+        "jsonFile": "TimeTraveler_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/timetravelr2025.jpg",
         "socialURL": "https://twitter.com/timetravelr2025"
     },
     {
         "name": "AIFinity76",
         "subPath": "AIFinity76_M_Resources/main/Wallpapers/",
-        "jsonFile": "AIFinity76_M_Resources/main/JSON/wallpaperImages.json",
+        "jsonFile": "AIFinity76_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/AIFinity76.jpg",
         "socialURL": "https://twitter.com/AIFinity76?ttl=1h"
     },
     {
         "name": "EditorsChoice",
         "subPath": "EditorsChoice/main/Wallpapers/",
-        "jsonFile": "EditorsChoice/main/JSON/wallpaperImages.json",
+        "jsonFile": "EditorsChoice/main/JSON/Wallpapers/wallpaperImages.json",
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/EditorsChoice.jpg",
         "socialURL": "https://twitter.com/SeanKly?ttl=1h"
     }
