@@ -54,5 +54,13 @@
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/EditorsChoice.jpg",
         "socialURL": "https://twitter.com/SeanKly?ttl=1h",
         "gitHubRepo": ""
+    },
+    {
+        "name": "WallpaperBliss",
+        "subPath": "WallpaperBliss_M_Resources/main/Wallpapers/",
+        "jsonFile": "WallpaperBliss_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/WallpaperBliss.jpg",
+        "socialURL": "https://twitter.com/WallpaperBliss?ttl=1h",
+        "gitHubRepo": "SCOSeanKly/WallpaperBliss_M_Resources"
     }
 ]
