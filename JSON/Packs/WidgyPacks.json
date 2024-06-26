@@ -1061,6 +1061,38 @@
         "creatorSocialLink": "https://x.com/alxboss",
         "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/Alx-052.zip"
     },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/DK1_mockup.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/DK1.zip",
+        "title": "DK1",
+        "subtitle": "A Widgy Widget by DaddyKool666",
+        "description": "A beautiful dark widget",
+        "creatorUsername": "DaddyKool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DaddyKool666.jpg",
+        "creatorSocialLink": "https://x.com/DaddyKool666"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/DK2_mockup.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/DK2.zip",
+        "title": "DK2",
+        "subtitle": "A Widgy Widget by DaddyKool666",
+        "description": "A beautiful dark widget",
+        "creatorUsername": "DaddyKool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DaddyKool666.jpg",
+        "creatorSocialLink": "https://x.com/DaddyKool666"
+        
+    },
+    {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Images/DK3_mockup.jpg",
+        "fileURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/ZipPacks/WidgyPacks/Files/DK3.zip",
+        "title": "DK3",
+        "subtitle": "A Widgy Widget by DaddyKool666",
+        "description": "A beautiful dark widget",
+        "creatorUsername": "DaddyKool666",
+        "creatorAvatar": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DaddyKool666.jpg",
+        "creatorSocialLink": "https://x.com/DaddyKool666"
+        
+    },
    
 ]
 
