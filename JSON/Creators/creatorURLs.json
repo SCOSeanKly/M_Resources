@@ -62,5 +62,14 @@
         "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/WallpaperBliss.jpg",
         "socialURL": "https://x.com/WallpaperBliss",
         "gitHubRepo": "SCOSeanKly/WallpaperBliss_M_Resources"
-    }
+    },
+    {
+        "name": "bressane",
+        "subPath": "WallpaperBliss_M_Resources/main/Wallpapers/",
+        "jsonFile": "WallpaperBliss_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/bressane.jpg",
+        "socialURL": "https://x.com/bressane",
+        "gitHubRepo": "SCOSeanKly/bressane_M_Resources"
+    },
+
 ]
