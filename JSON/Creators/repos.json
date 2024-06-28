@@ -1,11 +1,5 @@
 [
   {
-    "id": "SelectRepo",
-    "rawValue": "",
-    "displayName": "Select Your Repo",
-    "pinNumber": "0000"
-  },
-  {
     "id": "SCOSeanKly",
     "rawValue": "SCOSeanKly/M_Resources",
     "displayName": "SCOSeanKly",
