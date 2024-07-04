@@ -12,10 +12,6 @@
     "score" : "8"
   },
   {
-    "initials" : "FGT",
-    "score" : "6"
-  },
-  {
     "initials" : "RRR",
     "score" : "5"
   },
@@ -25,6 +21,10 @@
   },
   {
     "initials" : "ADR",
+    "score" : "3"
+  },
+  {
+    "initials" : "HGY",
     "score" : "3"
   }
 ]
