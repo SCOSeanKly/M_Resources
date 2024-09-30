@@ -244,10 +244,6 @@
         "title": "Overlay 50",
         "subtitle": "Grunge Noise"
     },
-
-
-
-
     {
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay51.png",
         "title": "Overlay 51",
@@ -262,6 +258,16 @@
         "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay53.png",
         "title": "Overlay 53",
         "subtitle": "Diagonal Light"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay54.png",
+        "title": "Overlay 54",
+        "subtitle": "Highlight Edges1"
+    },
+     {
+        "image": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/OverlayImages/Overlay/overlay55.png",
+        "title": "Overlay 55",
+        "subtitle": "Highlight Edges2"
     }
 
 
