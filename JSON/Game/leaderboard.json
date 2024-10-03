@@ -138,5 +138,9 @@
   {
     "initials" : "ABC",
     "score" : "1"
+  },
+  {
+    "initials" : "MAX",
+    "score" : "1"
   }
 ]
