@@ -92,6 +92,10 @@
     "score" : "5"
   },
   {
+    "initials" : "IMM",
+    "score" : "4"
+  },
+  {
     "initials" : "ADR",
     "score" : "3"
   },
@@ -145,10 +149,6 @@
   },
   {
     "initials" : "SHA",
-    "score" : "1"
-  },
-  {
-    "initials" : "IMM",
     "score" : "1"
   }
 ]
