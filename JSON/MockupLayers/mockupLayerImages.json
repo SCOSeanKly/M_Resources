@@ -1,0 +1,44 @@
+{
+    "Overlays": [
+
+        "OverlayShadows1.png",
+        "OverlayShadows2.png",
+        "OverlayShadows3.png",
+        "OverlayShadows4.png",
+        "OverlayShadows5.png",
+        "OverlayShadows6.png",
+        "OverlayShadows7.png",
+        "OverlayShadows8.png",
+        "OverlayShadows9.png",
+        "OverlayShadows10.png",
+        "OverlayShadows11.png",
+        "OverlayShadows12.png",
+        "OverlayShadows13.png",
+        "OverlayShadows14.png",
+        "OverlayShadows15.png",
+        "OverlayShadows16.png",
+        "OverlayFloodLights.png",
+        "HolographicConfetti.png",
+        "iPhoneBottomShadowEffect.png",
+        "screenProtector.png",
+        "SmokeOverlay1.png",
+        "WindowShadow.png"
+
+    ],
+
+    "Backgrounds": [
+        "PodiumCreamBG.png",
+        "PodiumRedBG.png",
+        "PodiumGreenBG.png",
+        "ConcreteAndLeather.png",
+        "MattShelf.png",
+        "WoodAndBrick.png",
+        "WoodBokeh.png",
+        "Smokin.png",
+        "iP16_Rose_Side.png",
+        "iP16_Black_Side.png",
+        "iP16_White_Side.png"
+        
+    ]
+}
+

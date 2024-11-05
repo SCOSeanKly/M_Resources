@@ -1,0 +1,75 @@
+[
+    {
+        "name": "widgy",
+        "subPath": "M_Resources/main/Widgys/",
+        "jsonFile": "M_Resources/main/JSON/Widgys/widgyImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/widgy.jpg",
+        "socialURL": "https://www.reddit.com/r/widgy/",
+        "gitHubRepo": ""
+    },
+    {
+        "name": "SeanKly",
+        "subPath": "M_Resources/main/Wallpapers/",
+        "jsonFile": "M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/seankly.jpg",
+        "socialURL": "https://x.com/SeanKly",
+        "gitHubRepo": "SCOSeanKly/M_Resources"
+    },
+    {
+        "name": "ElijahCreative",
+        "subPath": "ElijahCreative_M_Resources/main/Wallpapers/",
+        "jsonFile": "ElijahCreative_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ElijahCreative.jpg",
+        "socialURL": "https://x.com/ElijahCreative",
+        "gitHubRepo": "SCOSeanKly/ElijahCreative_M_Resources"
+    },
+    {
+        "name": "TeboulDavid1",
+        "subPath": "SmartWallpaperArt_M_Resources/main/Wallpapers/",
+        "jsonFile": "SmartWallpaperArt_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/TeboulDavid1.jpg",
+        "socialURL": "https://x.com/TeboulDavid1",
+        "gitHubRepo": "SCOSeanKly/SmartWallpaperArt_M_Resources"
+    },
+    {
+        "name": "timetravelr2025",
+        "subPath": "TimeTraveler_M_Resources/main/Wallpapers/",
+        "jsonFile": "TimeTraveler_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/timetravelr2025.jpg",
+        "socialURL": "https://x.com/timetravelr2025",
+        "gitHubRepo": "SCOSeanKly/TimeTraveler_M_Resources"
+    },
+    {
+        "name": "AIFinity76",
+        "subPath": "AIFinity76_M_Resources/main/Wallpapers/",
+        "jsonFile": "AIFinity76_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/AIFinity76.jpg",
+        "socialURL": "https://x.com/AIFinity76",
+        "gitHubRepo": "SCOSeanKly/AIFinity76_M_Resources"
+    },
+    {
+        "name": "EditorsChoice",
+        "subPath": "EditorsChoice/main/Wallpapers/",
+        "jsonFile": "EditorsChoice/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/EditorsChoice.jpg",
+        "socialURL": "https://x.com/SeanKly",
+        "gitHubRepo": ""
+    },
+    {
+        "name": "WallpaperBliss",
+        "subPath": "WallpaperBliss_M_Resources/main/Wallpapers/",
+        "jsonFile": "WallpaperBliss_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/WallpaperBliss.jpg",
+        "socialURL": "https://x.com/WallpaperBliss",
+        "gitHubRepo": "SCOSeanKly/WallpaperBliss_M_Resources"
+    },
+    {
+        "name": "bressane",
+        "subPath": "bressane_M_Resources/main/Wallpapers/",
+        "jsonFile": "bressane_M_Resources/main/JSON/Wallpapers/wallpaperImages.json",
+        "imageURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/bressane.jpg",
+        "socialURL": "https://x.com/bressane",
+        "gitHubRepo": "SCOSeanKly/bressane_M_Resources"
+    },
+
+]
