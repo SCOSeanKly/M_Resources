@@ -162,5 +162,9 @@
   {
     "initials" : "SHA",
     "score" : "1"
+  },
+  {
+    "initials" : "AFS",
+    "score" : "1"
   }
 ]
