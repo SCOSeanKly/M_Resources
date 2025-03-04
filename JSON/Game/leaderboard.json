@@ -124,6 +124,10 @@
     "score" : "3"
   },
   {
+    "initials" : "MSJ",
+    "score" : "3"
+  },
+  {
     "initials" : "TOM",
     "score" : "2"
   },
@@ -177,10 +181,6 @@
   },
   {
     "initials" : "SSM",
-    "score" : "1"
-  },
-  {
-    "initials" : "MSJ",
     "score" : "1"
   }
 ]
